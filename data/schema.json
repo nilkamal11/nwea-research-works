@@ -1,0 +1,190 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NWEA research library browser dataset",
+  "description": "Derived dataset contract. scripts/validate_data.py also checks relationships, unique IDs and URLs, date order, class mappings and roster matches. The preserved source snapshot retains legacy classification values and is not the derived dataset.",
+  "type": "object",
+  "required": [
+    "meta",
+    "works"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": [
+        "pulled",
+        "n",
+        "roster",
+        "classOrder"
+      ],
+      "properties": {
+        "pulled": {
+          "type": "string",
+          "format": "date"
+        },
+        "n": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "roster": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "classOrder": {
+          "const": [
+            "Journal article",
+            "Book",
+            "Conference paper",
+            "Working paper / preprint",
+            "Report / brief",
+            "Technical / psychometric",
+            "Conference presentation",
+            "Practitioner guide",
+            "Blog / web",
+            "Unclassified"
+          ]
+        }
+      }
+    },
+    "works": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "date",
+          "year",
+          "type",
+          "product",
+          "center",
+          "byline",
+          "pdf",
+          "url",
+          "types",
+          "cls",
+          "themes",
+          "authors",
+          "nwea",
+          "editors"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[0-9]+$"
+          },
+          "title": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "year": {
+            "type": "string",
+            "pattern": "^[0-9]{4}$"
+          },
+          "type": {
+            "type": "string"
+          },
+          "product": {
+            "type": "string"
+          },
+          "center": {
+            "type": "string"
+          },
+          "byline": {
+            "type": "string",
+            "description": "Unchanged saved source byline, except that an editor prefix is represented by the editors field."
+          },
+          "pdf": {
+            "type": "string",
+            "pattern": "^(https?://.*)?$"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https?://"
+          },
+          "types": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "enum": [
+                "Journal article",
+                "Book",
+                "Presentation paper",
+                "Working paper",
+                "Research brief",
+                "Research report",
+                "White paper",
+                "Policy brief",
+                "Technical brief",
+                "Technical report",
+                "Presentation",
+                "Guide",
+                "Blog article",
+                "Data visualization",
+                "(untyped)"
+              ]
+            },
+            "uniqueItems": true
+          },
+          "cls": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "enum": [
+                "Journal article",
+                "Book",
+                "Conference paper",
+                "Working paper / preprint",
+                "Report / brief",
+                "Technical / psychometric",
+                "Conference presentation",
+                "Practitioner guide",
+                "Blog / web",
+                "Unclassified"
+              ]
+            },
+            "uniqueItems": true
+          },
+          "themes": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "uniqueItems": true
+          },
+          "authors": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "uniqueItems": true,
+            "description": "Contributor display names. Consult author_aliases.json for unverified legacy normalization."
+          },
+          "nwea": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "uniqueItems": true,
+            "description": "Contributor names matched to the saved roster. This does not establish affiliation."
+          },
+          "editors": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}

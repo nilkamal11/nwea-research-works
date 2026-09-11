@@ -1,0 +1,253 @@
+{
+  "snapshot_date": "2026-09-04",
+  "record_count": 317,
+  "unique_ids": 317,
+  "unique_urls": 317,
+  "missing_metadata": {
+    "authors": 24,
+    "byline": 24,
+    "center": 11,
+    "nwea": 129,
+    "pdf": 180,
+    "product": 247,
+    "themes": 4
+  },
+  "duplicate_titles": [
+    {
+      "title": "Identifying students who are off-track academically in 9th grade: The role of social-emotional learning trajectories",
+      "ids": [
+        "45289",
+        "45082"
+      ]
+    },
+    {
+      "title": "The forgotten 20 percent: Achievement and growth in rural schools across the nation",
+      "ids": [
+        "45285",
+        "45233"
+      ]
+    },
+    {
+      "title": "Achievement and growth for English Learners",
+      "ids": [
+        "45284",
+        "45282"
+      ]
+    },
+    {
+      "title": "Understanding differential growth during school years and summers for students in special education",
+      "ids": [
+        "45200",
+        "45197"
+      ]
+    },
+    {
+      "title": "Do students rapidly guess repeatedly over time? A longitudinal analysis of student test disengagement, background, and attitudes",
+      "ids": [
+        "45196",
+        "45087"
+      ]
+    },
+    {
+      "title": "A longitudinal study of reading growth for students with visual impairments",
+      "ids": [
+        "45161",
+        "45007"
+      ]
+    },
+    {
+      "title": "Learning during COVID-19: Initial findings on students’ reading and math achievement and growth",
+      "ids": [
+        "45119",
+        "45107"
+      ]
+    },
+    {
+      "title": "A cessation of measurement: Identifying test taker disengagement using response time",
+      "ids": [
+        "45100",
+        "45084"
+      ]
+    },
+    {
+      "title": "Using retest data to evaluate and improve effort-moderated scoring",
+      "ids": [
+        "45086",
+        "45070"
+      ]
+    },
+    {
+      "title": "Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores",
+      "ids": [
+        "45069",
+        "44975"
+      ]
+    },
+    {
+      "title": "The impact of test-taking disengagement on item content representation",
+      "ids": [
+        "45052",
+        "45000"
+      ]
+    },
+    {
+      "title": "Modeling student test-taking motivation in the context of an adaptive achievement test",
+      "ids": [
+        "44973",
+        "44907"
+      ]
+    },
+    {
+      "title": "Reconciling long-term education policy goals with short-term school accountability models",
+      "ids": [
+        "44971",
+        "44925"
+      ]
+    },
+    {
+      "title": "Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness",
+      "ids": [
+        "44961",
+        "44832"
+      ]
+    },
+    {
+      "title": "Validating the SEDA measures of district educational opportunities via a common assessment",
+      "ids": [
+        "44928",
+        "44830"
+      ]
+    },
+    {
+      "title": "Evaluating the relationships between poverty and school performance",
+      "ids": [
+        "44844",
+        "44817"
+      ]
+    }
+  ],
+  "type_counts": {
+    "(untyped)": 1,
+    "Blog article": 18,
+    "Book": 3,
+    "Data visualization": 8,
+    "Guide": 6,
+    "Journal article": 113,
+    "Policy brief": 1,
+    "Presentation": 16,
+    "Presentation paper": 5,
+    "Research brief": 51,
+    "Research report": 24,
+    "Technical brief": 24,
+    "Technical report": 10,
+    "White paper": 16,
+    "Working paper": 23
+  },
+  "class_counts": {
+    "Blog / web": 26,
+    "Book": 3,
+    "Conference paper": 5,
+    "Conference presentation": 16,
+    "Journal article": 113,
+    "Practitioner guide": 6,
+    "Report / brief": 92,
+    "Technical / psychometric": 34,
+    "Unclassified": 1,
+    "Working paper / preprint": 23
+  },
+  "posted_year_counts": {
+    "2020": 138,
+    "2021": 56,
+    "2022": 43,
+    "2023": 7,
+    "2024": 16,
+    "2025": 31,
+    "2026": 26
+  },
+  "march_2020_entries": 91,
+  "distinct_contributor_names": 228,
+  "contributor_appearances": 748,
+  "roster_names": 22,
+  "editor_entry_ids": [
+    "45090"
+  ],
+  "organizational_byline_entry_ids": [
+    "89129"
+  ],
+  "notes": [
+    "Counts describe saved library entries, not distinct studies or complete author bibliographies.",
+    "Posted dates are website dates, not verified original publication dates.",
+    "Roster matches are name matches to a saved list, not institutional affiliation evidence.",
+    "Missing bylines and unverified aliases affect contributor and network coverage.",
+    "Journal article classification follows source work types and does not independently verify peer review.",
+    "Multi-type entries count in each applicable type and class."
+  ],
+  "source_sha256": "014621370187e3ddf99fc2dd8c98798e7814a0883cd4ae6a1870cad9295a28dc",
+  "author_aliases": {
+    "policy": "Raw source bylines are preserved. Legacy display aliases are documented but not independently verified. No automated identity matching or fuzzy merge is applied.",
+    "legacy_aliases": [
+      {
+        "source_name": "Jim Soland",
+        "display_name": "James Soland",
+        "entry_ids": [
+          "89883"
+        ],
+        "status": "legacy_unverified"
+      },
+      {
+        "source_name": "Douglas Downery",
+        "display_name": "Douglas Downey",
+        "entry_ids": [
+          "45231"
+        ],
+        "status": "legacy_unverified"
+      },
+      {
+        "source_name": "Doug Downey",
+        "display_name": "Douglas Downey",
+        "entry_ids": [
+          "45117"
+        ],
+        "status": "legacy_unverified"
+      },
+      {
+        "source_name": "Xueming Li",
+        "display_name": "Xueming (Sylvia) Li",
+        "entry_ids": [
+          "45007"
+        ],
+        "status": "legacy_unverified"
+      },
+      {
+        "source_name": "Amelia Wenk Gotwals",
+        "display_name": "Amelia Gotwals",
+        "entry_ids": [
+          "44858"
+        ],
+        "status": "legacy_unverified"
+      },
+      {
+        "source_name": "Tyler Matta",
+        "display_name": "Tyler H. Matta",
+        "entry_ids": [
+          "44853"
+        ],
+        "status": "legacy_unverified"
+      }
+    ],
+    "corrections": [
+      {
+        "legacy_name": "Shannon Bi",
+        "display_name": "Sharon Bi",
+        "entry_ids": [
+          "44931",
+          "44854",
+          "44835"
+        ],
+        "reason": "Restore the exact name in each saved source byline. The prior Sharon-to-Shannon substitution had no supporting evidence in the saved project.",
+        "status": "restored_to_saved_byline"
+      }
+    ],
+    "credential_handling": "Credential suffixes vary in the inherited contributor lists. The build does not standardize these suffixes; the unchanged source byline retains the saved text."
+  }
+}

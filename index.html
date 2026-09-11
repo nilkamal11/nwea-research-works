@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>
+      NWEA Research Works
+    </title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header>
+      <div class="hrow">
+        <h1>
+          NWEA Research Works
+        </h1>
+        <span class="sub" id="hsub">
+        </span>
+        <span class="spacer">
+        </span>
+        <a class="pill" href="https://github.com/nilkamal11/nwea-research-works" target="_blank" rel="noopener noreferrer">
+          Source code
+        </a>
+        <a class="pill" href="nwea_publications_317.csv">
+          CSV
+        </a>
+        <button class="tab" id="theme" style="border-radius:8px">
+          Theme
+        </button>
+      </div>
+      <div class="tabs" role="tablist" aria-label="Research views">
+        <button class="tab" role="tab" id="tab-works" aria-controls="v-works" data-v="works" aria-selected="true">
+          Works
+        </button>
+        <button class="tab" role="tab" id="tab-counts" aria-controls="v-counts" data-v="counts">
+          Counts
+        </button>
+        <button class="tab" role="tab" id="tab-themes" aria-controls="v-themes" data-v="themes">
+          Themes &times; type
+        </button>
+        <button class="tab" role="tab" id="tab-collabs" aria-controls="v-collabs" data-v="collabs">
+          Collaborations
+        </button>
+      </div>
+    </header>
+    <main>
+      <section role="tabpanel" aria-labelledby="tab-works" id="v-works">
+        <div class="panel pad">
+          <div class="filters">
+            <div>
+              <label class="f" for="q">
+                Search title or contributor
+              </label>
+              <input type="search" id="q" placeholder="e.g. achievement gap, Kuhfeld, pandemic">
+            </div>
+            <div>
+              <label class="f" for="fCls">
+                Publication class
+              </label>
+              <select id="fCls">
+              </select>
+            </div>
+            <div>
+              <label class="f" for="fType">
+                Work type
+              </label>
+              <select id="fType">
+              </select>
+            </div>
+            <div>
+              <label class="f" for="fTheme">
+                Theme
+              </label>
+              <select id="fTheme">
+              </select>
+            </div>
+            <div>
+              <label class="f" for="fAuthor">
+                Contributor
+              </label>
+              <select id="fAuthor">
+              </select>
+            </div>
+            <div>
+              <label class="f" for="fY0">
+                Posted from
+              </label>
+              <select id="fY0">
+              </select>
+            </div>
+            <div>
+              <label class="f" for="fY1">
+                Posted to
+              </label>
+              <select id="fY1">
+              </select>
+            </div>
+            <div>
+              <label class="f" for="fSort">
+                Sort
+              </label>
+              <select id="fSort">
+                <option value="year">
+                  Newest posted
+                </option>
+                <option value="yearA">
+                  Oldest posted
+                </option>
+                <option value="title">
+                  Title A to Z
+                </option>
+                <option value="type">
+                  Work type
+                </option>
+                <option value="nauth">
+                  Most contributors
+                </option>
+              </select>
+            </div>
+          </div>
+          <div class="togs">
+            <label>
+              <input type="checkbox" id="fPdf">
+              Has a PDF
+            </label>
+            <label>
+              <input type="checkbox" id="fNwea">
+              Has a saved-roster contributor
+            </label>
+            <label>
+              <input type="checkbox" id="fByline">
+              Has a byline
+            </label>
+            <button class="link" id="clear">
+              Clear all filters
+            </button>
+          </div>
+          <p class="count" id="wcount" role="status" aria-live="polite">
+          </p>
+          <div id="list">
+          </div>
+        </div>
+      </section>
+      <section role="tabpanel" aria-labelledby="tab-counts" id="v-counts" class="hide">
+        <div class="panel pad" id="scopeCounts" style="margin-bottom:16px">
+        </div>
+        <div class="kpis" id="kpis">
+        </div>
+        <div class="grid2">
+          <div class="panel pad">
+            <h2>
+              By publication class
+            </h2>
+            <p class="muted" style="margin-top:-6px;font-size:12.5px">
+              Source work types grouped into publication classes. A record with multiple classes counts under each.
+            </p>
+            <div class="bars" id="bCls">
+            </div>
+          </div>
+          <div class="panel pad">
+            <h2>
+              By work type
+            </h2>
+            <div class="bars" id="bType">
+            </div>
+          </div>
+          <div class="panel pad">
+            <h2>
+              By posted year
+            </h2>
+            <p class="note">
+              Posted year is the date recorded by the source website. It may differ from the publication year.
+            </p>
+            <div class="bars" id="bYear">
+            </div>
+          </div>
+          <div class="panel pad">
+            <h2>
+              By theme
+            </h2>
+            <div class="bars" id="bTheme">
+            </div>
+          </div>
+          <div class="panel pad">
+            <h2>
+              Top contributors
+              <span class="muted" style="font-weight:400">
+                (all bylines)
+              </span>
+            </h2>
+            <div class="bars" id="bAuthor">
+            </div>
+          </div>
+          <div class="panel pad">
+            <h2>
+              Saved-roster contributors
+            </h2>
+            <div class="bars" id="bNwea">
+            </div>
+          </div>
+          <div class="panel pad">
+            <h2>
+              By product
+            </h2>
+            <div class="bars" id="bProduct">
+            </div>
+          </div>
+        </div>
+      </section>
+      <section role="tabpanel" aria-labelledby="tab-themes" id="v-themes" class="hide">
+        <div class="panel pad">
+          <h2>
+            Theme by work type
+          </h2>
+          <p class="muted" style="margin-top:-6px">
+            Which themes NWEA publishes on, and in which form. Click any cell to see those works.
+          </p>
+          <div class="mwrap" id="mx">
+          </div>
+        </div>
+      </section>
+      <section role="tabpanel" aria-labelledby="tab-collabs" id="v-collabs" class="hide">
+        <div class="panel pad" id="scopeNet" style="margin-bottom:14px">
+        </div>
+        <div class="panel pad">
+          <div class="netbar">
+            <strong>
+              Contributor network
+            </strong>
+            <label>
+              <input type="radio" name="scope" value="nwea" checked>
+              Saved roster only
+            </label>
+            <label>
+              <input type="radio" name="scope" value="all">
+              All contributors
+            </label>
+            <label>
+              Min shared records
+              <select id="minw" style="width:auto;display:inline-block">
+                <option>
+                  1
+                </option>
+                <option>
+                  2
+                </option>
+                <option>
+                  3
+                </option>
+                <option>
+                  5
+                </option>
+              </select>
+            </label>
+            <button class="link" id="restart">
+              Re-run layout
+            </button>
+            <span class="spacer">
+            </span>
+            <span class="muted" id="netstat">
+            </span>
+          </div>
+          <canvas role="img" id="net" aria-label="Contributor network. Use the contributor and shared-record tables below for the same data.">
+          </canvas>
+          <p class="legend" id="networkLegend">
+          </p>
+          <p class="note" id="networkNote">
+          </p>
+          <details class="network-data">
+            <summary>
+              Contributor and shared-record tables
+            </summary>
+            <div id="networkTables">
+            </div>
+          </details>
+          <div id="netpick" aria-live="polite">
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer id="foot">
+    </footer>
+    <script src="data.js">
+    </script>
+    <script src="assets/data-model.js">
+    </script>
+    <script src="assets/app.js">
+    </script>
+  </body>
+</html>

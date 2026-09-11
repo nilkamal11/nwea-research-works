@@ -1,0 +1,29 @@
+{
+  "snapshot_date": "2026-09-04",
+  "record_grain": "One entry in the saved NWEA research library extract. Different versions, appendices and summaries may be separate entries.",
+  "record_count": 317,
+  "original_artifact": "data.js",
+  "original_artifact_sha256": "84a328b826c531273d350ace1da5ed370b22a7fe7b468059f0c5fb8f3e89bbed",
+  "canonical_snapshot": "snapshot_2026-09-04.json",
+  "canonical_snapshot_sha256": "014621370187e3ddf99fc2dd8c98798e7814a0883cd4ae6a1870cad9295a28dc",
+  "source_description_as_saved": "nwea.org research library (WordPress REST API + publication pages)",
+  "source_home": "https://www.nwea.org/research/publications/",
+  "retrieval_status": "Imported from an existing saved snapshot. Its original collector, raw API responses, HTML responses and collection log were not supplied.",
+  "completeness": "No claim that this snapshot covers every NWEA publication or every work by a listed researcher.",
+  "roster": "The saved snapshot contains 22 researcher display names. Matching establishes roster membership only, not affiliation or employment at publication.",
+  "build": "scripts/build_data.py rebuilds data.js, the CSV and QA report without network access.",
+  "transformations": [
+    "Preserve all 317 entries, original IDs, posted dates, URLs and source bylines.",
+    "Derive publication classes from saved work types; use Journal article without independent peer-review claims.",
+    "Restore Sharon Bi in three contributor lists to match saved bylines; document other legacy aliases as unverified.",
+    "Recompute roster-match names from displayed contributors and the saved roster.",
+    "Export source_byline and contributors separately; omit the misleading authors_nwea_staff field.",
+    "Report missing fields and repeated titles rather than imputing metadata or dropping records."
+  ],
+  "interpretation": [
+    "Posted dates do not establish original publication dates. March 2020 has 91 entries; calendar 2020 has 138.",
+    "Journal articles, working papers, briefs, appendices and presentations can describe the same study.",
+    "One edited book and one organizational byline are explicitly identified by QA for contribution-role handling.",
+    "Missing author names and unverified legacy aliases limit contributor metrics."
+  ]
+}

@@ -1,0 +1,9612 @@
+window.NWEA = {
+  "meta": {
+    "pulled": "2026-09-04",
+    "classOrder": [
+      "Journal article",
+      "Book",
+      "Conference paper",
+      "Working paper / preprint",
+      "Report / brief",
+      "Technical / psychometric",
+      "Conference presentation",
+      "Practitioner guide",
+      "Blog / web",
+      "Unclassified"
+    ],
+    "source": "nwea.org research library (WordPress REST API + publication pages)",
+    "n": 317,
+    "roster": [
+      "Andrew Hegedus",
+      "Ann Hu",
+      "Ayesha K. Hashim",
+      "Beth Tarasawa",
+      "Carrie Phillips",
+      "Daniel Long",
+      "Emily Morton",
+      "Fang Peng",
+      "Gustave Robinson",
+      "Jazmin Isaacs",
+      "Karyn Lewis",
+      "Megan Kuhfeld",
+      "Miles Davison",
+      "Naomi Duran",
+      "Patrick Meyer",
+      "Samantha Musacchia",
+      "Scott J. Peters",
+      "Sofia Postell",
+      "Susan Kowalski",
+      "Tyler H. Matta",
+      "Wei He",
+      "Xueming (Sylvia) Li"
+    ],
+    "scope": "Saved NWEA research-library snapshot; completeness is not independently verified.",
+    "dateMeaning": "Website posted date, not verified original publication date",
+    "rosterMeaning": "Name match to the saved 22-name roster, not affiliation at publication",
+    "rosterDate": "2026-09-04",
+    "authorIdentityMeaning": "Display names with documented legacy aliases; identities are not independently verified"
+  },
+  "works": [
+    {
+      "id": "93933",
+      "title": "Achievement and Growth Norms for Spanish MAP Reading Fluency Foundational Skills",
+      "date": "2026-08-18",
+      "year": "2026",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Early learning",
+        "Item response theory",
+        "Measurement & scaling",
+        "Test design"
+      ],
+      "product": "MAP Reading Fluency",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He"
+      ],
+      "nwea": [
+        "Wei He"
+      ],
+      "byline": "Wei He",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Spanish-MRF-Foundational-Skills-Norms-Report-8-2026.pdf",
+      "url": "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-spanish-map-reading-fluency-foundational-skills-report/"
+    },
+    {
+      "id": "97155",
+      "title": "Technical Appendix for “Getting Algebra Placement Right: Expanding Opportunity and Strengthening Preparation”",
+      "date": "2026-08-17",
+      "year": "2026",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Growth",
+        "Informing instruction",
+        "Math & STEM",
+        "Middle school"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Daniel Long",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Daniel Long",
+        "Scott J. Peters"
+      ],
+      "byline": "Megan Kuhfeld, Daniel Long, Scott J. Peters",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-getting-algebra-placement-right-expanding-opportunity-and-strengthening-preparation/"
+    },
+    {
+      "id": "97152",
+      "title": "Getting Algebra Placement Right: Expanding Opportunity and Strengthening Preparation",
+      "date": "2026-08-17",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Growth",
+        "Informing instruction",
+        "Math & STEM",
+        "Middle school"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Daniel Long",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Daniel Long",
+        "Scott J. Peters"
+      ],
+      "byline": "Megan Kuhfeld, Daniel Long, Scott J. Peters",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/getting-algebra-placement-right-expanding-opportunity-and-strengthening-preparation_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/getting-algebra-placement-right-expanding-opportunity-and-strengthening-preparation/"
+    },
+    {
+      "id": "96927",
+      "title": "How Post‑COVID Norm Shifts Change the Meaning of MAP Growth Metrics for School Accountability",
+      "date": "2026-08-03",
+      "year": "2026",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Empowering educators",
+        "Growth",
+        "Guidance",
+        "Measurement & scaling",
+        "Student growth & accountability policies"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Ayesha K. Hashim"
+      ],
+      "nwea": [
+        "Ayesha K. Hashim"
+      ],
+      "byline": "Ayesha K. Hashim",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/how-post-covid-norm-shifts-change-the-meaning-of-map-growth-metrics-for-school-accountability_NWEA_whitePaper.pdf",
+      "url": "https://www.nwea.org/research/publication/how-post%e2%80%91covid-norm-shifts-change-the-meaning-of-map-growth-metrics-for-school-accountability/"
+    },
+    {
+      "id": "96887",
+      "title": "Tech Appendix for Struggling adolescent readers left behind: Evidence of post-COVID-19 declines and pathways forward",
+      "date": "2026-08-03",
+      "year": "2026",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Empowering educators",
+        "Growth",
+        "Middle school",
+        "Reading & language arts"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Naomi Duran",
+        "Karyn Lewis",
+        "Carrie Phillips",
+        "Samantha Musacchia"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Naomi Duran",
+        "Karyn Lewis",
+        "Carrie Phillips",
+        "Samantha Musacchia"
+      ],
+      "byline": "Megan Kuhfeld, Naomi Duran, PhD, Karyn Lewis, Carrie Phillips, Samantha Musacchia",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Adolescent-literacy_NWEA_Tech-appendix_2026.pdf",
+      "url": "https://www.nwea.org/research/publication/tech-appendix-for-struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward/"
+    },
+    {
+      "id": "96886",
+      "title": "Struggling adolescent readers left behind: Evidence of post-COVID-19 declines and pathways forward",
+      "date": "2026-08-03",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Empowering educators",
+        "Growth",
+        "Middle school",
+        "Reading & language arts"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Naomi Duran",
+        "Karyn Lewis",
+        "Carrie Phillips",
+        "Samantha Musacchia"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Naomi Duran",
+        "Karyn Lewis",
+        "Carrie Phillips",
+        "Samantha Musacchia"
+      ],
+      "byline": "Megan Kuhfeld, Naomi Duran, PhD, Karyn Lewis, Carrie Phillips, Samantha Musacchia",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward_NWEA_Research-brief.pdf",
+      "url": "https://www.nwea.org/research/publication/struggling-adolescent-readers-left-behind-evidence-of-post-covid-19-declines-and-pathways-forward/"
+    },
+    {
+      "id": "96532",
+      "title": "Chronic absenteeism: A continued impediment to academic recovery",
+      "date": "2026-07-20",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "",
+      "authors": [
+        "Sofia Postell",
+        "Emily Morton",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Sofia Postell",
+        "Emily Morton",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Sofia Postell, Emily Morton, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/chronic-absenteeism-a-continued-impediment-to-academic-recovery_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/chronic-absenteeism-a-continued-impediment-to-academic-recovery/"
+    },
+    {
+      "id": "96530",
+      "title": "Technical Appendix for Chronic absenteeism: A continued impediment to academic recovery",
+      "date": "2026-07-20",
+      "year": "2026",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Sofia Postell",
+        "Emily Morton",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Sofia Postell",
+        "Emily Morton",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Sofia Postell, Emily Morton, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Tech-appendix_chronic_absenteeism.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-chronic-absenteeism-a-continued-impediment-to-academic-recovery/"
+    },
+    {
+      "id": "89129",
+      "title": "2025 MAP Growth Norms Technical Manual",
+      "date": "2026-07-13",
+      "year": "2026",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "NWEA"
+      ],
+      "nwea": [],
+      "byline": "NWEA",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/MAP-Growth-Norms-Technical-Manual-1.pdf",
+      "url": "https://www.nwea.org/research/publication/2025-map-growth-norms-technical-manual/"
+    },
+    {
+      "id": "96333",
+      "title": "Behind at the starting line: What Kindergarten test scores tell us about reaching proficiency in 3rd grade",
+      "date": "2026-06-24",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Early learning",
+        "Empowering educators",
+        "Growth",
+        "Informing instruction"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Emily Morton"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Emily Morton"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis, Emily Morton",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Behind-the-starting-line-what-kindergartent-test-scores-tell-us-about-reaching-proficiency-in-third-grade_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/behind-at-the-starting-line-what-kindergarten-test-scores-tell-us-about-reaching-proficiency-in-3rd-grade/"
+    },
+    {
+      "id": "96336",
+      "title": "Technical Appendix for Behind at the starting line: What Kindergarten test scores tell us about reaching proficiency in 3rd grade",
+      "date": "2026-06-24",
+      "year": "2026",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Early learning",
+        "Empowering educators",
+        "Growth",
+        "Informing instruction"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Emily Morton"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Emily Morton"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis, Emily Morton",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Tech-appendix_K3_ontrack_proficiency_FINAL.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-behind-at-the-starting-line-what-kindergarten-test-scores-tell-us-about-reaching-proficiency-in-3rd-grade/"
+    },
+    {
+      "id": "94075",
+      "title": "Technical Appendix: Academically diverse classrooms, deeper needs — What teachers face after the pandemic",
+      "date": "2026-04-27",
+      "year": "2026",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Empowering educators",
+        "Growth",
+        "Informing instruction"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Emily Morton",
+        "Karyn Lewis",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Emily Morton",
+        "Karyn Lewis",
+        "Scott J. Peters"
+      ],
+      "byline": "Megan Kuhfeld, Emily Morton, Karyn Lewis, Scott J. Peters",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/NWEA_Academic_Diversity_Research_Technical_Appendix_April2026.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-academically-diverse-classrooms-deeper-needs-what-teachers-face-after-the-pandemic/"
+    },
+    {
+      "id": "94115",
+      "title": "Academically diverse classrooms, deeper needs: What teachers face after the pandemic",
+      "date": "2026-04-27",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Empowering educators",
+        "Growth",
+        "Informing instruction"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Emily Morton",
+        "Karyn Lewis",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Emily Morton",
+        "Karyn Lewis",
+        "Scott J. Peters"
+      ],
+      "byline": "Megan Kuhfeld, Emily Morton, Karyn Lewis, Scott J. Peters",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/academically-diverse-classrooms-deeper-needs-what-teachers-face-after-the-pandemic_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/academically-diverse-classrooms-deeper-needs-what-teachers-face-after-the-pandemic/"
+    },
+    {
+      "id": "93995",
+      "title": "The Middle School Science Course Landscape: Course Offerings, Enrollment Patterns, and Implications for Assessment",
+      "date": "2026-04-20",
+      "year": "2026",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "Math & STEM"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Naomi Duran",
+        "Susan Kowalski"
+      ],
+      "nwea": [
+        "Naomi Duran",
+        "Susan Kowalski"
+      ],
+      "byline": "Naomi Duran, PhD, Susan Kowalski",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/the-middle-school-science-landscape-course-offerings-enrollment-patterns-and-implications-for-assessment_NWEA_whitePaper.pdf",
+      "url": "https://www.nwea.org/research/publication/the-middle-school-science-course-landscape-course-offerings-enrollment-patterns-and-implications-for-assessment/"
+    },
+    {
+      "id": "94004",
+      "title": "A Practical Guide for Considering and Interpreting Test Score Differences Among Student Subgroups ",
+      "date": "2026-04-13",
+      "year": "2026",
+      "type": "Guide",
+      "types": [
+        "Guide"
+      ],
+      "cls": [
+        "Practitioner guide"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Equity",
+        "Growth",
+        "Guidance"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/a-practical-guide-for-considering-and-interpreting-test-score-differences-among-student-subgroups_NWEA_guide.pdf",
+      "url": "https://www.nwea.org/research/publication/a-practical-guide-for-considering-and-interpreting-test-score-differences-among-student-subgroups/"
+    },
+    {
+      "id": "93948",
+      "title": "Spanish MAP Reading Fluency Technical Report",
+      "date": "2026-04-03",
+      "year": "2026",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Early learning",
+        "Equity",
+        "Measurement & scaling",
+        "Test design"
+      ],
+      "product": "MAP Reading Fluency",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Rachel Hawthorne",
+        "Sara Velazquez",
+        "Fang Peng",
+        "Carmen Hall",
+        "John Newburn"
+      ],
+      "nwea": [
+        "Fang Peng"
+      ],
+      "byline": "Rachel Hawthorne, Sara Velazquez, Fang Peng, Carmen Hall, John Newburn",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Spanish-MAP-Reading-Fluency-Technical-Report_March2026_V1.pdf",
+      "url": "https://www.nwea.org/research/publication/spanish-map-reading-fluency-technical-report/"
+    },
+    {
+      "id": "93830",
+      "title": "MAP Growth Spanish Technical Report- Addendum",
+      "date": "2026-04-02",
+      "year": "2026",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Equity",
+        "Item response theory",
+        "Measurement & scaling",
+        "Test design"
+      ],
+      "product": "MAP Growth; MAP Spanish",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Patrick Meyer",
+        "Janice Johnson",
+        "Xueming (Sylvia) Li",
+        "Ann Hu",
+        "Carmen Hall"
+      ],
+      "nwea": [
+        "Patrick Meyer",
+        "Xueming (Sylvia) Li",
+        "Ann Hu"
+      ],
+      "byline": "Patrick Meyer, Janice Johnson, Xueming (Sylvia) Li, Ann Hu, Carmen Hall",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/MAP-Growth-Technical-Report-Spanish-Addendum-2025.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-spanish-technical-report-addendum/"
+    },
+    {
+      "id": "45239",
+      "title": "MAP Growth technical report",
+      "date": "2026-04-02",
+      "year": "2026",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Item response theory",
+        "Measurement & scaling",
+        "Test design"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Patrick Meyer",
+        "Janice Johnson",
+        "Xueming (Sylvia) Li",
+        "Ann Hu",
+        "Carmen Hall"
+      ],
+      "nwea": [
+        "Patrick Meyer",
+        "Xueming (Sylvia) Li",
+        "Ann Hu"
+      ],
+      "byline": "Patrick Meyer, Janice Johnson, Xueming (Sylvia) Li, Ann Hu, Carmen Hall",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/MAP-Growth-Technical-Report-2025.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-technical-report/"
+    },
+    {
+      "id": "93462",
+      "title": "Kindergarten redshirting: What families should know",
+      "date": "2026-03-23",
+      "year": "2026",
+      "type": "Guide",
+      "types": [
+        "Guide"
+      ],
+      "cls": [
+        "Practitioner guide"
+      ],
+      "themes": [
+        "Early learning",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Sofia Postell"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Sofia Postell"
+      ],
+      "byline": "Megan Kuhfeld, Sofia Postell",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/kindergarten-readshirting-what-famillies-should-know_NWEA_oneSheet.pdf",
+      "url": "https://www.nwea.org/research/publication/kindergarten-redshirting-what-families-should-know/"
+    },
+    {
+      "id": "93460",
+      "title": "Technical Appendix: Should kindergartners be redshirted? Costs likely outweigh academic benefits",
+      "date": "2026-03-23",
+      "year": "2026",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Early learning",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Sofia Postell"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Sofia Postell"
+      ],
+      "byline": "Megan Kuhfeld, Sofia Postell",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Tech-appendix_redshirting_update_2026.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-should-kindergartners-be-redshirted-costs-likely-outweigh-academic-benefits/"
+    },
+    {
+      "id": "93376",
+      "title": "Should kindergartners be redshirted? Costs likely outweigh academic benefits",
+      "date": "2026-03-23",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Early learning",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Sofia Postell"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Sofia Postell"
+      ],
+      "byline": "Megan Kuhfeld, Sofia Postell",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/should-kindergarteners-be-redshirted-costs-likely-outweigh-academic-benefits_NWEA_rsearchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/should-kindergartners-be-redshirted-costs-likely-outweigh-academic-benefits/"
+    },
+    {
+      "id": "93249",
+      "title": "Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends",
+      "date": "2026-03-10",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/covid-19-recovery-in-k-2-positive-recovery-trends_NWEA_trend-snapshots.pdf",
+      "url": "https://www.nwea.org/research/publication/trend-snapshots-covid-19-recovery-in-k-2-positive-recovery-trends/"
+    },
+    {
+      "id": "93103",
+      "title": "Tech Appendix for “From loss to recovery: Diverging paths and uneven gains across schools”",
+      "date": "2026-02-23",
+      "year": "2026",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth",
+        "High-growth schools & practices",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Emily Morton",
+        "Megan Kuhfeld",
+        "Ayesha K. Hashim",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Emily Morton",
+        "Megan Kuhfeld",
+        "Ayesha K. Hashim",
+        "Scott J. Peters"
+      ],
+      "byline": "Emily Morton, Megan Kuhfeld, Ayesha K. Hashim, Scott J. Peters",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/recoveryoutliers_appendix_formatted_pdf.pdf",
+      "url": "https://www.nwea.org/research/publication/tech-appendix-for-from-loss-to-recovery-diverging-paths-and-uneven-gains-across-schools/"
+    },
+    {
+      "id": "93100",
+      "title": "From loss to recovery: Diverging paths and uneven gains across schools",
+      "date": "2026-02-23",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth",
+        "High-growth schools & practices",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Emily Morton",
+        "Megan Kuhfeld",
+        "Ayesha K. Hashim",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Emily Morton",
+        "Megan Kuhfeld",
+        "Ayesha K. Hashim",
+        "Scott J. Peters"
+      ],
+      "byline": "Emily Morton, Megan Kuhfeld, Ayesha K. Hashim, Scott J. Peters",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/From-loss-to-recovery-diverring-paths-and-uneven-gains-across-schools_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/from-loss-to-recovery-diverging-paths-and-uneven-gains-across-schools/"
+    },
+    {
+      "id": "45074",
+      "title": "MAP Growth Goal Explorer User’s Guide and FAQ",
+      "date": "2026-02-10",
+      "year": "2026",
+      "type": "Guide",
+      "types": [
+        "Guide"
+      ],
+      "cls": [
+        "Practitioner guide"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Innovations in reporting & assessment"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/MAP-Growth-goal-explorer-user-guide-and-FAQ_NWEA_guide.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-goal-explorer-users-guide/"
+    },
+    {
+      "id": "92338",
+      "title": "Lessons in resilience: A playbook for recovery from natural disasters",
+      "date": "2026-01-12",
+      "year": "2026",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/lessons-in-resilience-a-playbook-for-recovery-from-natural-disasters_NWEA_rresearchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/lessons-in-resilience-a-playbook-for-recovery-from-natural-disasters/"
+    },
+    {
+      "id": "92120",
+      "title": "Post-Pandemic School Closure Trends: Schools Serving Black Students Disproportionately Closed",
+      "date": "2025-12-18",
+      "year": "2025",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Jazmin Isaacs",
+        "Megan Kuhfeld",
+        "Sofia Postell",
+        "Ayesha K. Hashim"
+      ],
+      "nwea": [
+        "Jazmin Isaacs",
+        "Megan Kuhfeld",
+        "Sofia Postell",
+        "Ayesha K. Hashim"
+      ],
+      "byline": "Jazmin Isaacs, Megan Kuhfeld, Sofia Postell, Ayesha K. Hashim",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/school_closures_white_paper_NWEA_2025.pdf",
+      "url": "https://www.nwea.org/research/publication/post-pandemic-school-closure-trends-schools-serving-black-students-disproportionately-closed/"
+    },
+    {
+      "id": "92014",
+      "title": "School’s in for Summer: A Scalable and Effective Post-Pandemic Academic Intervention",
+      "date": "2025-12-03",
+      "year": "2025",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "",
+      "authors": [
+        "Emily Morton",
+        "Dan Goldhaber",
+        "Andrew McEachin",
+        "Thomas J. Kane"
+      ],
+      "nwea": [
+        "Emily Morton"
+      ],
+      "byline": "Emily Morton, Dan Goldhaber, Andrew McEachin, Thomas J. Kane",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/schools-in-for-summer-a-scalable-and-effective-post-pandemic-academic-intervention_NWEA_brief.pdf",
+      "url": "https://www.nwea.org/research/publication/schools-in-for-summer-a-scalable-and-effective-post-pandemic-academic-intervention/"
+    },
+    {
+      "id": "91624",
+      "title": "Technical Appendix: Unequal Access to 8th-Grade Algebra: How School Offerings and Placement Practices Limit Opportunity",
+      "date": "2025-11-20",
+      "year": "2025",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "College & career readiness",
+        "Equity",
+        "Math & STEM"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Daniel Long",
+        "Megan Kuhfeld",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Daniel Long",
+        "Megan Kuhfeld",
+        "Scott J. Peters"
+      ],
+      "byline": "Daniel Long, Megan Kuhfeld, Scott J. Peters",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Tech_Appendix_Accessto8thgradealgebra_2025.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-unequal-access-to-8th-grade-algebra-how-school-offerings-and-placement-practices-limit-opportunity/"
+    },
+    {
+      "id": "91623",
+      "title": "Unequal Access to 8th-Grade Algebra: How School Offerings and Placement Practices Limit Opportunity",
+      "date": "2025-11-17",
+      "year": "2025",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "College & career readiness",
+        "Equity",
+        "Math & STEM"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Daniel Long",
+        "Megan Kuhfeld",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Daniel Long",
+        "Megan Kuhfeld",
+        "Scott J. Peters"
+      ],
+      "byline": "Daniel Long, Megan Kuhfeld, Scott J. Peters",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/unequal-access-to-eight-grade-algebra-how-school-offerings-and-placement-practices-limit-opportunity_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/unequal-access-to-8th-grade-algebra-how-school-offerings-and-placement-practices-limit-opportunity/"
+    },
+    {
+      "id": "91159",
+      "title": "Technical Appendix: MAP Growth Specialty School National Dashboard",
+      "date": "2025-11-10",
+      "year": "2025",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "Megan Kuhfeld",
+        "Daniel Long",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Daniel Long",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, Daniel Long, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Technical-Appendix-for-MAP-Growth-Specialty-School-National-Dashboard_NOV-2025.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-map-growth-specialty-school-national-dashboard/"
+    },
+    {
+      "id": "91008",
+      "title": "Hot test days, lower math scores: How heat affects student achievement",
+      "date": "2025-10-22",
+      "year": "2025",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Growth",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "Sofia Postell",
+        "Megan Kuhfeld",
+        "Susan Kowalski",
+        "Jazmin Isaacs"
+      ],
+      "nwea": [
+        "Sofia Postell",
+        "Megan Kuhfeld",
+        "Susan Kowalski",
+        "Jazmin Isaacs"
+      ],
+      "byline": "Sofia Postell, Megan Kuhfeld, Susan Kowalski, Jazmin Isaacs",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/hot-test-days-lower-math-scores-how-heat-affects-student-achievement_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/hot-test-days-lower-math-scores-how-heat-affects-student-achievement/"
+    },
+    {
+      "id": "90987",
+      "title": "Technical appendix for “Hot test days, lower math scores: How heat affects student achievement”",
+      "date": "2025-10-22",
+      "year": "2025",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Growth",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "Sofia Postell",
+        "Megan Kuhfeld",
+        "Susan Kowalski",
+        "Jazmin Isaacs"
+      ],
+      "nwea": [
+        "Sofia Postell",
+        "Megan Kuhfeld",
+        "Susan Kowalski",
+        "Jazmin Isaacs"
+      ],
+      "byline": "Sofia Postell, Megan Kuhfeld, Susan Kowalski, Jazmin Isaacs",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Tech-appendix_Heat_Learning_Research_Brief_2025_final.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-hot-test-days-lower-math-scores-how-heat-affects-student-achievement/"
+    },
+    {
+      "id": "92197",
+      "title": "Introducing the MAP Growth National Dashboard: Your real-time companion to MAP Growth norms",
+      "date": "2025-10-21",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Assessment"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Karyn Lewis"
+      ],
+      "byline": "Karyn Lewis",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/introducing-the-map-growth-national-dashboard-your-real-time-companion-to-map-growth-norms/"
+    },
+    {
+      "id": "91005",
+      "title": "MAP Growth National Dashboard",
+      "date": "2025-10-20",
+      "year": "2025",
+      "type": "Data visualization",
+      "types": [
+        "Data visualization"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/map-growth-national-dashboard/"
+    },
+    {
+      "id": "90885",
+      "title": "Trend Snapshots: Math Recovery Continues, Reading Remains Stalled in Spring 2025",
+      "date": "2025-10-13",
+      "year": "2025",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Math-recovery-continues-reading-stalled-in-spring-2025_NWEA_trendSnapshots.pdf",
+      "url": "https://www.nwea.org/research/publication/trend-snapshots-math-recovery-continues-reading-remains-stalled-in-spring-2025/"
+    },
+    {
+      "id": "90837",
+      "title": "User Guide and FAQ: MAP Growth National Dashboard",
+      "date": "2025-10-13",
+      "year": "2025",
+      "type": "Guide",
+      "types": [
+        "Guide"
+      ],
+      "cls": [
+        "Practitioner guide"
+      ],
+      "themes": [
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "Emily Morton",
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Emily Morton",
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Emily Morton, Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/MAP-Growth-National-Dashboard-user-guide-and-faq_NWEA_guide.pdf",
+      "url": "https://www.nwea.org/research/publication/user-guide-and-faq-map-growth-national-dashboard/"
+    },
+    {
+      "id": "90640",
+      "title": "Technical Appendix: MAP Growth National Dashboard",
+      "date": "2025-10-13",
+      "year": "2025",
+      "type": "Guide; Technical brief",
+      "types": [
+        "Guide",
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric",
+        "Practitioner guide"
+      ],
+      "themes": [
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Dashboard-technical-brief_final_025.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-map-growth-national-dashboard/"
+    },
+    {
+      "id": "45067",
+      "title": "Specialty Schools National Dashboard",
+      "date": "2025-10-01",
+      "year": "2025",
+      "type": "Data visualization",
+      "types": [
+        "Data visualization"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/achievement-and-growth-tables-for-private-schools/"
+    },
+    {
+      "id": "92181",
+      "title": "Responsive leadership in crisis: Lessons from the pandemic for education leaders",
+      "date": "2025-09-09",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "School leadership"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Ayesha K. Hashim"
+      ],
+      "nwea": [
+        "Ayesha K. Hashim"
+      ],
+      "byline": "Ayesha K. Hashim",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/responsive-leadership-in-crisis-lessons-from-the-pandemic-for-education-leaders/"
+    },
+    {
+      "id": "45065",
+      "title": "MAP Growth Goal Explorer",
+      "date": "2025-08-31",
+      "year": "2025",
+      "type": "Data visualization",
+      "types": [
+        "Data visualization"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Equity",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/map-growth-goal-explorer/"
+    },
+    {
+      "id": "92185",
+      "title": "Reimagining family engagement: A long-term strategy for COVID recovery",
+      "date": "2025-08-29",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Ayesha K. Hashim"
+      ],
+      "nwea": [
+        "Ayesha K. Hashim"
+      ],
+      "byline": "Ayesha K. Hashim",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/reimagining-family-engagement-a-long-term-strategy-for-covid-recovery/"
+    },
+    {
+      "id": "92199",
+      "title": "Getting precise: Why instructional time matters for fair comparisons of student achievement",
+      "date": "2025-08-28",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Assessment"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Karyn Lewis"
+      ],
+      "byline": "Karyn Lewis",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/getting-precise-why-instructional-time-matters-for-fair-comparisons-of-student-achievement/"
+    },
+    {
+      "id": "89883",
+      "title": "The Impact of Severe Weather Events on Education: Revisiting Hurricane Katrina While Preparing for the Next Disaster",
+      "date": "2025-08-25",
+      "year": "2025",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Growth",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "General",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland",
+        "Sofia Postell"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Sofia Postell"
+      ],
+      "byline": "Megan Kuhfeld, Jim Soland, Sofia Postell",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/The-impact-of-severe-weather-on-education-revisiting-hurricane-katrina-while-preparing-for-the-next-disaster_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/the-impact-of-severe-weather-events-on-education-revisiting-hurricane-katrina-while-preparing-for-the-next-disaster/"
+    },
+    {
+      "id": "92201",
+      "title": "Realistic vs. meaningful growth: Rethinking growth goals with 2025 MAP Growth norms",
+      "date": "2025-08-21",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Assessment"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Karyn Lewis"
+      ],
+      "byline": "Karyn Lewis",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/realistic-vs-meaningful-growth-rethinking-growth-goals-with-2025-map-growth-norms/"
+    },
+    {
+      "id": "92203",
+      "title": "What can you do with the 2025 MAP Growth norms? Turning test results into action",
+      "date": "2025-08-14",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Assessment"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Karyn Lewis"
+      ],
+      "byline": "Karyn Lewis",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/what-can-you-do-with-the-2025-map-growth-norms-turning-test-results-into-action/"
+    },
+    {
+      "id": "92205",
+      "title": "Same scale, new reference: What’s new in the 2025 MAP Growth norms",
+      "date": "2025-08-07",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Assessment"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Karyn Lewis"
+      ],
+      "byline": "Karyn Lewis",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/same-scale-new-reference-whats-new-in-the-2025-map-growth-norms/"
+    },
+    {
+      "id": "92195",
+      "title": "Making sense of standard error of measurement",
+      "date": "2025-07-18",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Assessment"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Emily Morton"
+      ],
+      "nwea": [
+        "Emily Morton"
+      ],
+      "byline": "Emily Morton",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/making-sense-of-standard-error-of-measurement/"
+    },
+    {
+      "id": "88220",
+      "title": "What the research tells us about four-day school weeks",
+      "date": "2025-07-09",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "School leadership"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Emily Morton"
+      ],
+      "nwea": [
+        "Emily Morton"
+      ],
+      "byline": "Emily Morton",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/what-the-research-tells-us-about-four-day-school-weeks/"
+    },
+    {
+      "id": "88219",
+      "title": "3 academic interventions policymakers can support to help get students back on track ",
+      "date": "2025-07-09",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Emily Morton"
+      ],
+      "nwea": [
+        "Emily Morton"
+      ],
+      "byline": "Emily Morton",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/3-academic-interventions-policymakers-can-support-to-help-get-students-back-on-track/"
+    },
+    {
+      "id": "92187",
+      "title": "Every school has advanced learners. Use local norms to find them",
+      "date": "2025-06-13",
+      "year": "2025",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "School leadership"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Scott J. Peters"
+      ],
+      "byline": "Scott J. Peters",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/every-school-has-advanced-learners-use-local-norms-to-find-them/"
+    },
+    {
+      "id": "87372",
+      "title": "Family engagement as a long-term strategy for continued COVID recovery",
+      "date": "2025-06-09",
+      "year": "2025",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth",
+        "Guidance"
+      ],
+      "product": "",
+      "center": "General",
+      "authors": [
+        "Ayesha K. Hashim",
+        "Rebecca Johnson",
+        "Rachel Perera"
+      ],
+      "nwea": [
+        "Ayesha K. Hashim"
+      ],
+      "byline": "Ayesha K. Hashim, Rebecca Johnson, Rachel Perera",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/family-engagement-as-a-long-term-strategy-for-continued-covid-recovery_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/family-engagement-as-a-long-term-strategy-for-continued-covid-recovery/"
+    },
+    {
+      "id": "86153",
+      "title": "Technical appendix for “Boys regain the advantage in middle school STEM skills: Post-COVID trends in gender achievement gaps”",
+      "date": "2025-05-12",
+      "year": "2025",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth",
+        "Math & STEM"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Gustave Robinson"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Gustave Robinson"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis, Gustave Robinson",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/NWEA_achievement_GenderGaps_Tech-appendix_April2025.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-boys-regain-the-advantage-in-middle-school-stem-skills-post-covid-trends-in-gender-achievement-gaps/"
+    },
+    {
+      "id": "86152",
+      "title": "Boys regain the advantage in middle school STEM skills: Post-COVID trends in gender achievement gaps",
+      "date": "2025-05-12",
+      "year": "2025",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth",
+        "Math & STEM"
+      ],
+      "product": "MAP Growth",
+      "center": "General",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Gustave Robinson"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Gustave Robinson"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis, Gustave Robinson",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/boys-regain-the-advantage-in-middle-school-steam-skills-post-covid-trends-in-gender-achievement-gaps_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/boys-regain-the-advantage-in-middle-school-stem-skills-post-covid-trends-in-gender-achievement-gaps/"
+    },
+    {
+      "id": "45246",
+      "title": "Spanish MAP Reading Fluency content guide",
+      "date": "2025-04-16",
+      "year": "2025",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Assessments in Spanish",
+        "Test design"
+      ],
+      "product": "MAP Reading Fluency; MAP Spanish",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "John Newburn",
+        "Sara Velazquez",
+        "Fang Peng",
+        "Carmen Hall",
+        "Kayla McLaughlin",
+        "Teresa Krastel"
+      ],
+      "nwea": [
+        "Fang Peng"
+      ],
+      "byline": "John Newburn, Sara Velazquez, Fang Peng, Carmen Hall, Kayla McLaughlin, Teresa Krastel",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Spanish-MAP-Reading-Fluency-Content-Guide_March2025.pdf",
+      "url": "https://www.nwea.org/research/publication/spanish-map-reading-fluency-content-guide/"
+    },
+    {
+      "id": "84325",
+      "title": "Practitioner’s Guide to Integrating Literacy and Science",
+      "date": "2025-02-25",
+      "year": "2025",
+      "type": "Guide",
+      "types": [
+        "Guide"
+      ],
+      "cls": [
+        "Practitioner guide"
+      ],
+      "themes": [
+        "Equity",
+        "Growth",
+        "Informing instruction",
+        "Math & STEM"
+      ],
+      "product": "MAP Growth",
+      "center": "",
+      "authors": [
+        "Scott J. Peters",
+        "Susan Kowalski",
+        "Ayesha K. Hashim"
+      ],
+      "nwea": [
+        "Scott J. Peters",
+        "Susan Kowalski",
+        "Ayesha K. Hashim"
+      ],
+      "byline": "Scott J. Peters, Susan Kowalski, Ayesha K. Hashim",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Practitioners-guide-to-integrating-literacy-and-science_NWEA_guide-1.pdf",
+      "url": "https://www.nwea.org/research/publication/practitioners-guide-to-integrating-literacy-and-science/"
+    },
+    {
+      "id": "84324",
+      "title": "Integrating Literacy and Science: A Powerful Partnership for Student Success",
+      "date": "2025-02-25",
+      "year": "2025",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "Growth",
+        "Informing instruction",
+        "Math & STEM"
+      ],
+      "product": "",
+      "center": "General",
+      "authors": [
+        "Susan Kowalski",
+        "Ayesha K. Hashim",
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Susan Kowalski",
+        "Ayesha K. Hashim",
+        "Scott J. Peters"
+      ],
+      "byline": "Susan Kowalski, Ayesha K. Hashim, Scott J. Peters",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Integrating-literacy-and-science-a-powerful-partnership-for-student-success_NWEA_research-brief.pdf",
+      "url": "https://www.nwea.org/research/publication/integrating-literacy-and-science-a-powerful-partnership-for-student-success/"
+    },
+    {
+      "id": "92209",
+      "title": "How to meet student needs following inclement weather-related school closures",
+      "date": "2024-11-19",
+      "year": "2024",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "School leadership"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/how-to-meet-student-needs-following-inclement-weather-related-school-closures/"
+    },
+    {
+      "id": "92189",
+      "title": "New research on science learning loss following COVID-19 school closures",
+      "date": "2024-09-25",
+      "year": "2024",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Scott J. Peters",
+        "Susan Kowalski"
+      ],
+      "nwea": [
+        "Scott J. Peters",
+        "Susan Kowalski"
+      ],
+      "byline": "Scott J. Peters, Susan Kowalski",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/new-research-on-science-learning-loss-following-covid-19-school-closures/"
+    },
+    {
+      "id": "79364",
+      "title": "Technical Brief – COVID’s impact on science achievement: Trends from 2019 through 2024",
+      "date": "2024-09-16",
+      "year": "2024",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Susan Kowalski",
+        "Scott J. Peters",
+        "Megan Kuhfeld",
+        "Gustave Robinson",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Susan Kowalski",
+        "Scott J. Peters",
+        "Megan Kuhfeld",
+        "Gustave Robinson",
+        "Karyn Lewis"
+      ],
+      "byline": "Susan Kowalski, Scott J. Peters, Megan Kuhfeld, Gustave Robinson, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Tech_appendix_Science_achievement_COVID_Research_2024.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-brief-covids-impact-on-science-achievement-trends-from-2019-through-2024/"
+    },
+    {
+      "id": "79343",
+      "title": "COVID’s impact on science achievement: Trends from 2019 through 2024",
+      "date": "2024-09-16",
+      "year": "2024",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Susan Kowalski",
+        "Scott J. Peters",
+        "Megan Kuhfeld",
+        "Gustave Robinson",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Susan Kowalski",
+        "Scott J. Peters",
+        "Megan Kuhfeld",
+        "Gustave Robinson",
+        "Karyn Lewis"
+      ],
+      "byline": "Susan Kowalski, Scott J. Peters, Megan Kuhfeld, Gustave Robinson, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Covids-impact-on-science-achievement-trends-from-2019-2024_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/covids-impact-on-science-achievement-trends-from-2019-through-2024/"
+    },
+    {
+      "id": "79371",
+      "title": "Reconciling Recent Evidence on Academic Recovery in the US from 2022 to 2023",
+      "date": "2024-09-11",
+      "year": "2024",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Dan Dewey",
+        "Megan Kuhfeld",
+        "Erin Fahle",
+        "Tom Kane",
+        "Sean F. Reardon"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Dan Dewey, Megan Kuhfeld, Erin Fahle, Tom Kane, Sean F. Reardon",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Reconciling-Recent-Evidence-on-Academic-Recovery-in-the-US-from-2022-to-2023.pdf",
+      "url": "https://www.nwea.org/research/publication/reconciling-recent-evidence-on-academic-recovery-in-the-us-from-2022-to-2023/"
+    },
+    {
+      "id": "45311",
+      "title": "English MAP Reading Fluency technical report",
+      "date": "2024-08-27",
+      "year": "2024",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Reading & language arts",
+        "Test design"
+      ],
+      "product": "MAP Reading Fluency",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Fang Peng",
+        "Kang Xue",
+        "Carmen Hall",
+        "John Newburn"
+      ],
+      "nwea": [
+        "Fang Peng"
+      ],
+      "byline": "Fang Peng, Kang Xue, Carmen Hall, John Newburn",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/English-MAP-Reading-Fluency-Technical-Report-2024-08-26.pdf",
+      "url": "https://www.nwea.org/research/publication/english-map-reading-fluency-technical-report/"
+    },
+    {
+      "id": "92207",
+      "title": "New data: How far off is COVID academic recovery?",
+      "date": "2024-07-30",
+      "year": "2024",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis",
+        "Lindsay Dworkin"
+      ],
+      "nwea": [
+        "Karyn Lewis"
+      ],
+      "byline": "Karyn Lewis, Lindsay Dworkin",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/new-data-how-far-off-is-covid-academic-recovery/"
+    },
+    {
+      "id": "78303",
+      "title": "Technical Brief Recovery still elusive: 2023-24 student achievement highlights persistent achievement gaps and a long road ahead",
+      "date": "2024-07-22",
+      "year": "2024",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Educations-long-covid-2022-23-achievement-data-reveal-stalled-progress-toward-pandemic-recovery_NWEA_Research-brief.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-brief-recovery-still-elusive-2023-24-student-achievement-highlights-persistent-achievement-gaps-and-a-long-road-ahead/"
+    },
+    {
+      "id": "78082",
+      "title": "Recovery still elusive: 2023-24 student achievement highlights persistent achievement gaps and a long road ahead",
+      "date": "2024-07-22",
+      "year": "2024",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/recovery-still-elusive-2023-24-student-achievement-highlights-persistent-achievement-gaps-and-a-long-road-ahead_NWEA_researchBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/recovery-still-elusive-2023-24-student-achievement-highlights-persistent-achievement-gaps-and-a-long-road-ahead/"
+    },
+    {
+      "id": "78139",
+      "title": "Predicting Amira Reading Mastery Based on NWEA MAP Reading Fluency Benchmark Assessment Scores",
+      "date": "2024-07-11",
+      "year": "2024",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Early learning",
+        "Measurement & scaling",
+        "Reading & language arts"
+      ],
+      "product": "MAP Reading Fluency",
+      "center": "NWEA Research",
+      "authors": [
+        "Fang Peng",
+        "Ann Hu",
+        "Christopher Wells"
+      ],
+      "nwea": [
+        "Fang Peng",
+        "Ann Hu"
+      ],
+      "byline": "Fang Peng, Ann Hu, Christopher Wells",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/MAP-Reading-Fluency-Amira-Linking-Study-Report-2024-06-11.pdf",
+      "url": "https://www.nwea.org/research/publication/predicting-amira-reading-mastery-based-on-nwea-map-reading-fluency-benchmark-assessment-scores/"
+    },
+    {
+      "id": "78119",
+      "title": "MAP Reading Fluency with Coach Evidence Base",
+      "date": "2024-07-11",
+      "year": "2024",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Early learning",
+        "Empowering educators",
+        "Innovations in reporting & assessment",
+        "Reading & language arts"
+      ],
+      "product": "MAP Reading Fluency",
+      "center": "NWEA Research",
+      "authors": [
+        "Amy Endo"
+      ],
+      "nwea": [],
+      "byline": "Amy Endo",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/MAP-Reading-Fluency-with-Coach-Evidence-Base.pdf",
+      "url": "https://www.nwea.org/research/publication/map-reading-fluency-with-coach-evidence-base/"
+    },
+    {
+      "id": "76543",
+      "title": "Effective summer programs: Practical guidance for district leaders",
+      "date": "2024-06-17",
+      "year": "2024",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth",
+        "Guidance",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Miles Davison",
+        "Jazmin Isaacs",
+        "Michael Gaddis",
+        "Sofia Postell",
+        "Ayesha K. Hashim",
+        "Susan Kowalski",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Miles Davison",
+        "Jazmin Isaacs",
+        "Sofia Postell",
+        "Ayesha K. Hashim",
+        "Susan Kowalski",
+        "Karyn Lewis"
+      ],
+      "byline": "Miles Davison, Jazmin Isaacs, Michael Gaddis, PhD, Sofia Postell, Ayesha K. Hashim, Susan Kowalski, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Effective-summer-programs-practical-guidance-for-district-leaders_NWEA_research-brief.pdf",
+      "url": "https://www.nwea.org/research/publication/effective-summer-programs-practical-guidance-for-district-leaders/"
+    },
+    {
+      "id": "92191",
+      "title": "When are students “ready” for algebra?",
+      "date": "2024-05-16",
+      "year": "2024",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Math & STEM"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Scott J. Peters"
+      ],
+      "byline": "Scott J. Peters",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/when-are-students-ready-for-algebra/"
+    },
+    {
+      "id": "44979",
+      "title": "Summer learning loss: What we know and what we’re learning",
+      "date": "2024-04-30",
+      "year": "2024",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Andrew McEachin"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, Andrew McEachin",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/summer-learning-loss-what-we-know-and-what-were-learning/"
+    },
+    {
+      "id": "92211",
+      "title": "3 considerations on chronic absenteeism for education policymakers",
+      "date": "2024-03-12",
+      "year": "2024",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "College & career readiness",
+        "COVID-19 & schools"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/3-considerations-on-chronic-absenteeism-for-education-policymakers/"
+    },
+    {
+      "id": "74064",
+      "title": "High dosage tutoring for academically at-risk students",
+      "date": "2024-01-30",
+      "year": "2024",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth",
+        "Informing instruction"
+      ],
+      "product": "",
+      "center": "",
+      "authors": [
+        "Miles Davison",
+        "Sofia Postell",
+        "Jazmin Isaacs",
+        "Ayesha K. Hashim"
+      ],
+      "nwea": [
+        "Miles Davison",
+        "Sofia Postell",
+        "Jazmin Isaacs",
+        "Ayesha K. Hashim"
+      ],
+      "byline": "Miles Davison, Sofia Postell, Jazmin Isaacs, Ayesha K. Hashim",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/high-dosage-tutoring-for-academically-at-risk-students_NWEA_research-brief.pdf",
+      "url": "https://www.nwea.org/research/publication/high-dosage-tutoring-for-academically-at-risk-students/"
+    },
+    {
+      "id": "73510",
+      "title": "Typical learning for whom? Guidelines for selecting benchmarks to calculate months of learning",
+      "date": "2023-11-09",
+      "year": "2023",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth",
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "",
+      "authors": [
+        "Megan Kuhfeld",
+        "Melissa Diliberti",
+        "Andrew McEachin",
+        "Jon Schweig",
+        "Louis T. Mariano"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, Melissa Diliberti, Andrew McEachin, Jon Schweig, Louis T. Mariano",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Guidelines-for-selecting-benchmarks-to-calculate-months-of-learning_NWEA_Research-Brief.pdf",
+      "url": "https://www.nwea.org/research/publication/73510/"
+    },
+    {
+      "id": "92193",
+      "title": "MAP-Growth can lower the cost and increase the accuracy of gifted and talented placements",
+      "date": "2023-10-10",
+      "year": "2023",
+      "type": "Blog article",
+      "types": [
+        "Blog article"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Assessment"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Scott J. Peters"
+      ],
+      "nwea": [
+        "Scott J. Peters"
+      ],
+      "byline": "Scott J. Peters",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/map-growth-can-lower-the-cost-and-increase-the-accuracy-of-gifted-and-talented-placements/"
+    },
+    {
+      "id": "70571",
+      "title": "Technical appendix: 2022-23 achievement data reveal stalled progress toward pandemic recovery",
+      "date": "2023-07-10",
+      "year": "2023",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld",
+        "Jazmin Isaacs"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld",
+        "Jazmin Isaacs"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld, Jazmin Isaacs",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Tech-appendix-July-2023-Final.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-2022-23-achievement-data-reveal-stalled-progress-toward-pandemic-recovery/"
+    },
+    {
+      "id": "70544",
+      "title": "Education’s long COVID: 2022–23 achievement data reveal stalled progress toward pandemic recovery",
+      "date": "2023-07-10",
+      "year": "2023",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "MAP Growth",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Educations-long-covid-2022-23-achievement-data-reveal-stalled-progress-toward-pandemic-recovery_NWEA_Research-brief.pdf",
+      "url": "https://www.nwea.org/research/publication/educations-long-covid-2022-23-achievement-data-reveal-stalled-progress-toward-pandemic-recovery/"
+    },
+    {
+      "id": "70508",
+      "title": "Executive Summary: Content proximity spring 2022 pilot study",
+      "date": "2023-06-26",
+      "year": "2023",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Innovations in reporting & assessment",
+        "Test design"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Patrick Meyer",
+        "Ann Hu",
+        "Xueming (Sylvia) Li"
+      ],
+      "nwea": [
+        "Patrick Meyer",
+        "Ann Hu",
+        "Xueming (Sylvia) Li"
+      ],
+      "byline": "Patrick Meyer, Ann Hu, Xueming (Sylvia) Li",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Content-proximity-spring-2022-pilot-study_NWEA_executive-summary.pdf",
+      "url": "https://www.nwea.org/research/publication/executive-summary-content-proximity-spring-2022-pilot-study/"
+    },
+    {
+      "id": "70434",
+      "title": "Content Proximity Spring 2022 Pilot Study Research Report",
+      "date": "2023-06-22",
+      "year": "2023",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Innovations in reporting & assessment",
+        "Test design"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Patrick Meyer",
+        "Ann Hu",
+        "Xueming (Sylvia) Li"
+      ],
+      "nwea": [
+        "Patrick Meyer",
+        "Ann Hu",
+        "Xueming (Sylvia) Li"
+      ],
+      "byline": "Patrick Meyer, Ann Hu, Xueming (Sylvia) Li",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Content-Proximity-Project-and-Pilot-Study-Spring-2022-Research-Report.pdf",
+      "url": "https://www.nwea.org/research/publication/content-proximity-spring-2022-pilot-study-research-report/"
+    },
+    {
+      "id": "53171",
+      "title": "Achievement and Growth Norms for Course-Specific MAP Growth Tests",
+      "date": "2023-02-08",
+      "year": "2023",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He"
+      ],
+      "nwea": [
+        "Wei He"
+      ],
+      "byline": "Wei He",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2023/02/2022-MAP-Growth-HS-Math-Norms-Report-02-07-2023.pdf",
+      "url": "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-tests/"
+    },
+    {
+      "id": "52198",
+      "title": "Progress towards pandemic recovery: Continued signs of rebounding achievement at the start of the 2022-23 school year",
+      "date": "2022-12-05",
+      "year": "2022",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/12/CSSP-Brief_Progress-toward-pandemic-recovery_DEC22_Final.pdf",
+      "url": "https://www.nwea.org/research/publication/progress-towards-pandemic-recovery-continued-signs-of-rebounding-achievement-at-the-start-of-the-2022-23-school-year/"
+    },
+    {
+      "id": "52188",
+      "title": "Technical appendix for progress towards pandemic recovery continued signs of rebounding achievement at the start of the 2022-2023 school year",
+      "date": "2022-12-05",
+      "year": "2022",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/12/Tech-Appendix-for-progress-towards-pandemic-recovery.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-progress-towards-pandemic-recovery-continued-signs-of-rebounding-achievement-at-the-start-of-the-2022-2023-school-year/"
+    },
+    {
+      "id": "52031",
+      "title": "Longitudinal models of reading and mathematics achievement in deaf and hard of hearing students",
+      "date": "2022-11-18",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Stephanie Cawthon",
+        "Johny Daniel",
+        "North Cooc",
+        "Ana Vielma"
+      ],
+      "nwea": [],
+      "byline": "Stephanie Cawthon, Johny Daniel, North Cooc, Ana Vielma",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/longitudinal-models-of-reading-and-mathematics-achievement-in-deaf-and-hard-of-hearing-students/"
+    },
+    {
+      "id": "52030",
+      "title": "GGMncv: Nonconvex penalized Gaussian graphical models in R",
+      "date": "2022-11-18",
+      "year": "2022",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Donald Williams"
+      ],
+      "nwea": [],
+      "byline": "Donald Williams",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/ggmncv-nonconvex-penalized-gaussian-graphical-models-in-r/"
+    },
+    {
+      "id": "52029",
+      "title": "District and school leaders’ perspectives on leading & learning during the COVID-19 pandemic",
+      "date": "2022-11-18",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Empowering educators"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Hayley Weddle",
+        "Ayesha K. Hashim",
+        "Ogechi Irondi"
+      ],
+      "nwea": [
+        "Ayesha K. Hashim"
+      ],
+      "byline": "Hayley Weddle, Ayesha K. Hashim, Ogechi Irondi",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/district-and-school-leaders-perspectives-on-leading-learning-during-the-covid-19-pandemic/"
+    },
+    {
+      "id": "51789",
+      "title": "The widening achievement divide during COVID-19",
+      "date": "2022-11-15",
+      "year": "2022",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld",
+        "Meredith Langi",
+        "Scott J. Peters",
+        "Erin Fahle"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld",
+        "Scott J. Peters"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld, Meredith Langi, Scott J. Peters, Erin Fahle",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/11/CSSP-Brief_Widening-achievement-divide-COVID-19.pdf",
+      "url": "https://www.nwea.org/research/publication/the-widening-achievement-divide-during-covid-19/"
+    },
+    {
+      "id": "50518",
+      "title": "Technical appendix for: The widening achievement divide during COVID-19",
+      "date": "2022-11-15",
+      "year": "2022",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Meredith Langi",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, Meredith Langi, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/10/Technical-appendix-for-The-widening-achievement-divide-during-COVID-19.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-the-widening-achievement-divide-during-covid-19/"
+    },
+    {
+      "id": "45323",
+      "title": "COVID-19 in the early elementary years: A comparison of achievement in spring 2019 and spring 2022",
+      "date": "2022-10-14",
+      "year": "2022",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Early learning",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/10/COVID-19-in-the-early-elementary-years.pdf",
+      "url": "https://www.nwea.org/research/publication/covid-19-in-the-early-elementary-years-a-comparison-of-achievement-in-spring-2019-and-spring-2022/"
+    },
+    {
+      "id": "45322",
+      "title": "Test score patterns across three COVID-19-impacted school years",
+      "date": "2022-10-12",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, James Soland, Karyn Lewis",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/test-score-patterns-across-three-covid-19-impacted-school-years/"
+    },
+    {
+      "id": "45321",
+      "title": "Pathways of mathematics achievement in preschool: Examining executive function and task orientation",
+      "date": "2022-10-12",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Early learning",
+        "Math & STEM"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Tara Hofkens",
+        "Jessica Whittaker",
+        "Robert Pianta",
+        "Virginia Vitiello",
+        "Erik Ruzek",
+        "Arya Ansari"
+      ],
+      "nwea": [],
+      "byline": "Tara Hofkens, Jessica Whittaker, Robert Pianta, Virginia Vitiello, Erik Ruzek, Arya Ansari",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/pathways-of-mathematics-achievement-in-preschool-examining-executive-function-and-task-orientation/"
+    },
+    {
+      "id": "45318",
+      "title": "Assessment in the time of COVID-19: Understanding patterns of student disengagement during remote low-stakes testing",
+      "date": "2022-10-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Innovations in reporting & assessment",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld",
+        "John Cronin"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld, John Cronin",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/assessment-in-the-time-of-covid-19-understanding-patterns-of-student-disengagement-during-remote-low-stakes-testing/"
+    },
+    {
+      "id": "45317",
+      "title": "Effects of 4-day school weeks on older adolescents: Examining impacts of the schedule on academic achievement, attendance, and behavior in high school",
+      "date": "2022-10-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Emily Morton"
+      ],
+      "nwea": [
+        "Emily Morton"
+      ],
+      "byline": "Emily Morton",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/effects-of-4-day-school-weeks-on-older-adolescents-examining-impacts-of-the-schedule-on-academic-achievement-attendance-and-behavior-in-high-school/"
+    },
+    {
+      "id": "45316",
+      "title": "The COVID-19 school year: Learning and recovery across 2020-2021",
+      "date": "2022-10-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland",
+        "Karyn Lewis",
+        "Erik Ruzek",
+        "Angela Johnson"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, James Soland, Karyn Lewis, Erik Ruzek, Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-covid-19-school-year-learning-and-recovery-across-2020-2021/"
+    },
+    {
+      "id": "45315",
+      "title": "Measuring student reading comprehension performance: Considerations of accuracy, equity, and engagement by embedding comprehension items within reading passages",
+      "date": "2022-10-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Innovations in reporting & assessment",
+        "Reading & language arts"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Meg Guerreiro",
+        "Janice Johnson"
+      ],
+      "nwea": [],
+      "byline": "Meg Guerreiro, Janice Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/measuring-student-reading-comprehension-performance-considerations-of-accuracy-equity-and-engagement-by-embedding-comprehension-items-within-reading-passages/"
+    },
+    {
+      "id": "45314",
+      "title": "The instructional legacy of COVID-19: Teacher adaptation in response to the pandemic",
+      "date": "2022-10-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Empowering educators"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Helena Connolly",
+        "Naina Abowd",
+        "Catherine C. Chase"
+      ],
+      "nwea": [],
+      "byline": "Helena Connolly, Naina Abowd, Catherine C. Chase",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-instructional-legacy-of-covid-19-teacher-adaptation-in-response-to-the-pandemic/"
+    },
+    {
+      "id": "45313",
+      "title": "Estimating and comparing growth using longitudinal interim achievement data with seasonal trends",
+      "date": "2022-10-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Yeow Meng Thum"
+      ],
+      "nwea": [],
+      "byline": "James Soland, Yeow Meng Thum",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/estimating-and-comparing-growth-using-longitudinal-interim-achievement-data-with-seasonal-trends/"
+    },
+    {
+      "id": "45309",
+      "title": "Achievement and growth norms for English MAP Reading Fluency Foundational Skills",
+      "date": "2022-08-18",
+      "year": "2022",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "MAP Reading Fluency",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He"
+      ],
+      "nwea": [
+        "Wei He"
+      ],
+      "byline": "Wei He",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/2022-English-MRF-Foundational-Skills-Norms-Report-2022-07-19.pdf",
+      "url": "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-english-map-reading-fluency-foundational-skills/"
+    },
+    {
+      "id": "45307",
+      "title": "Looking beyond vision: Supports for students who are blind or visually impaired in mathematics",
+      "date": "2022-07-26",
+      "year": "2022",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Accessibility",
+        "Equity",
+        "Math & STEM"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Sonja Steinbach"
+      ],
+      "nwea": [],
+      "byline": "Sonja Steinbach",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/Looking-beyond-vision-Supports-for-students-who-are-blind-or-visually-impaired-in-mathematics.pdf",
+      "url": "https://www.nwea.org/research/publication/looking-beyond-vision-supports-for-students-who-are-blind-or-visually-impaired-in-mathematics/"
+    },
+    {
+      "id": "45305",
+      "title": "Using Artificial Intelligence (AI) to improve math accessibility for students with visual impairments",
+      "date": "2022-07-25",
+      "year": "2022",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Accessibility",
+        "Equity",
+        "Math & STEM"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics; NWEA Research",
+      "authors": [
+        "Kang Xue",
+        "Elizabeth Barker"
+      ],
+      "nwea": [],
+      "byline": "Kang Xue, Elizabeth Barker",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/07/Using-Artificial-Intelligence-AI-to-improve-math-accessibility-for-students-with-visual-impairments.technicalbrief.pdf",
+      "url": "https://www.nwea.org/research/publication/using-artificial-intelligence-ai-to-improve-math-accessibility-for-students-with-visual-impairments/"
+    },
+    {
+      "id": "45302",
+      "title": "Student achievement in 2021-22: Cause for hope and continued urgency",
+      "date": "2022-07-19",
+      "year": "2022",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/07/Student-Achievement-in-2021-22-Cause-for-hope-and-concern.researchbrief-1.pdf",
+      "url": "https://www.nwea.org/research/publication/student-achievement-in-2021-22-cause-for-hope-and-continued-urgency/"
+    },
+    {
+      "id": "45301",
+      "title": "Technical appendix for: Student achievement in 2021-22: Cause for hope and continued urgency",
+      "date": "2022-07-19",
+      "year": "2022",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/07/Technical-appendix-for-Student-achievement-in-2021-22-Cause-for-hope-and-continued-urgency.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-student-achievement-in-2021-22-cause-for-hope-and-continued-urgency/"
+    },
+    {
+      "id": "45300",
+      "title": "Bayesian uncertainty estimation for Gaussian graphical models and centrality indices",
+      "date": "2022-04-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Joran Jongerling",
+        "Sacha Epskamp",
+        "Donald Williams"
+      ],
+      "nwea": [],
+      "byline": "Joran Jongerling, Sacha Epskamp, Donald Williams",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/bayesian-uncertainty-estimation-for-gaussian-graphical-models-and-centrality-indices/"
+    },
+    {
+      "id": "45299",
+      "title": "What do teachers know about dyslexia? It’s complicated!",
+      "date": "2022-04-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Reading & language arts"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Erin K. Washburn",
+        "Benjamin C. Heddy",
+        "Emily Binks-Cantrell",
+        "Tiffany Peltier"
+      ],
+      "nwea": [],
+      "byline": "Erin K. Washburn, Benjamin C. Heddy, Emily Binks-Cantrell, Tiffany Peltier",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/what-do-teachers-know-about-dyslexia-its-complicated/"
+    },
+    {
+      "id": "45298",
+      "title": "Changes in school composition during the COVID-19 pandemic: Implications for school-average interim test score use",
+      "date": "2022-04-11",
+      "year": "2022",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Jonathan Schweig",
+        "Megan Kuhfeld",
+        "Andrew McEachin",
+        "Melissa Diliberti",
+        "Louis Mariano"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Jonathan Schweig, Megan Kuhfeld, Andrew McEachin, Melissa Diliberti, Louis Mariano",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/changes-in-school-composition-during-the-covid-19-pandemic-implications-for-school-average-interim-test-score-use/"
+    },
+    {
+      "id": "45297",
+      "title": "Supporting students with disabilities throughout the year",
+      "date": "2022-04-11",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Elizabeth Barker",
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Elizabeth Barker, Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/supporting-students-with-disabilities-throughout-the-year/"
+    },
+    {
+      "id": "45295",
+      "title": "BFpack: Flexible Bayes factor testing of scientific theories in R",
+      "date": "2022-03-29",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "",
+      "authors": [
+        "Joris Mulder",
+        "Donald Williams",
+        "Xin Gu",
+        "Andrew Tomarken",
+        "Florian Böing-Messing",
+        "Anton Olsson-Collentine",
+        "Marlyne Meijerink-Bosman",
+        "Janosch Menke",
+        "Robbie van Aert",
+        "Jean-Paul Fox",
+        "Herbert Hoijtink",
+        "Yves Rosseel",
+        "Eric-Jan Wagenmakers",
+        "Caspar van Lissa"
+      ],
+      "nwea": [],
+      "byline": "Joris Mulder, Donald Williams, Xin Gu, Andrew Tomarken, Florian Böing-Messing, Anton Olsson-Collentine, Marlyne Meijerink-Bosman, Janosch Menke, Robbie van Aert, Jean-Paul Fox, Herbert Hoijtink, Yves Rosseel, Eric-Jan Wagenmakers, Caspar van Lissa",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/bfpack-flexible-bayes-factor-testing-of-scientific-theories-in-r/"
+    },
+    {
+      "id": "45294",
+      "title": "GGMnonreg: Non-regularized Gaussian graphical models in R",
+      "date": "2022-03-29",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "",
+      "authors": [
+        "Donald Williams"
+      ],
+      "nwea": [],
+      "byline": "Donald Williams",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/ggmnonreg-non-regularized-gaussian-graphical-models-in-r/"
+    },
+    {
+      "id": "45292",
+      "title": "Putting the individual into reliability: Bayesian testing of homogeneous within-person variance in hierarchical models",
+      "date": "2022-03-29",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Donald Williams",
+        "Stephen Martin",
+        "Phillipe Rast"
+      ],
+      "nwea": [],
+      "byline": "Donald Williams, Stephen Martin, Phillipe Rast",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/putting-the-individual-into-reliability-bayesian-testing-of-homogeneous-within-person-variance-in-hierarchical-models/"
+    },
+    {
+      "id": "45291",
+      "title": "Examining the performance of the trifactor model for multiple raters",
+      "date": "2022-03-28",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/examining-the-performance-of-the-trifactor-model-for-multiple-raters/"
+    },
+    {
+      "id": "45290",
+      "title": "Achievement growth in K-8 Catholic schools using NWEA data",
+      "date": "2022-03-28",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Early learning",
+        "Middle school"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Julie Dallavis",
+        "Megan Kuhfeld",
+        "Beth Tarasawa",
+        "Stephen Ponisciak"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa"
+      ],
+      "byline": "Julie Dallavis, Megan Kuhfeld, Beth Tarasawa, Stephen Ponisciak",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/achievement-growth-in-k-8-catholic-schools-using-nwea-data/"
+    },
+    {
+      "id": "45289",
+      "title": "Identifying students who are off-track academically in 9th grade: The role of social-emotional learning trajectories",
+      "date": "2022-03-28",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "High school",
+        "Middle school",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/identifying-students-who-are-off-track-academically-in-9th-grade-the-role-of-social-emotional-learning-trajectories-journal/"
+    },
+    {
+      "id": "45288",
+      "title": "It matters how you start: Early numeracy mastery predicts high school math course-taking and college attendance",
+      "date": "2022-03-28",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "College & career readiness",
+        "Early learning",
+        "Math & STEM"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Pamela Davis-Kean",
+        "Thurston Domina",
+        "Megan Kuhfeld",
+        "Alexa Ellis",
+        "Elizabeth Gershoff"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Pamela Davis-Kean, Thurston Domina, Megan Kuhfeld, Alexa Ellis, Elizabeth Gershoff",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/it-matters-how-you-start-early-numeracy-mastery-predicts-high-school-math-course-taking-and-college-attendance/"
+    },
+    {
+      "id": "45285",
+      "title": "The forgotten 20 percent: Achievement and growth in rural schools across the nation",
+      "date": "2022-03-25",
+      "year": "2022",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Angela Johnson, Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/03/The-forgotten-20-percent-achievement-and-growth-in-rural-schools-across-the-nation_NWEA_research-brief.pdf",
+      "url": "https://www.nwea.org/research/publication/the-forgotten-20-percent-achievement-and-growth-in-rural-schools-across-the-nation-brief/"
+    },
+    {
+      "id": "45284",
+      "title": "Achievement and growth for English Learners",
+      "date": "2022-03-18",
+      "year": "2022",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/achievement-and-growth-for-english-learners-journal/"
+    },
+    {
+      "id": "45282",
+      "title": "Achievement and growth for English Learners",
+      "date": "2022-03-18",
+      "year": "2022",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/Achievement-and-growth-for-English-Learners_Working-Paper.pdf",
+      "url": "https://www.nwea.org/research/publication/achievement-and-growth-for-english-learners/"
+    },
+    {
+      "id": "45280",
+      "title": "MAP Reading Fluency theory of action",
+      "date": "2022-03-08",
+      "year": "2022",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "Measurement & scaling"
+      ],
+      "product": "MAP Reading Fluency",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Mary Ann Simpson"
+      ],
+      "nwea": [],
+      "byline": "Mary Ann Simpson",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/MAP-Reading-Fluency-Theory-of-Action-Infographic-AUG21.pdf",
+      "url": "https://www.nwea.org/research/publication/map-reading-fluency-theory-of-action/"
+    },
+    {
+      "id": "45277",
+      "title": "MAP Growth theory of action",
+      "date": "2022-03-07",
+      "year": "2022",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "Measurement & scaling",
+        "Test design"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Patrick Meyer",
+        "Michael Dahlin"
+      ],
+      "nwea": [
+        "Patrick Meyer"
+      ],
+      "byline": "Patrick Meyer, Michael Dahlin",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/03/MAP-Growth-theory-of-action_NWEA_whitepaper.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-theory-of-action/"
+    },
+    {
+      "id": "45255",
+      "title": "An investigation of item parameter invariance using focused calibration samples for MAP Growth",
+      "date": "2022-01-19",
+      "year": "2022",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Computer adaptive testing"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He"
+      ],
+      "nwea": [
+        "Wei He"
+      ],
+      "byline": "Wei He",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/MAP-Growth-Item-Calibration-with-Focused-Samples-2021-11-09-1.pdf",
+      "url": "https://www.nwea.org/research/publication/an-investigation-of-item-parameter-invariance-using-focused-calibration-samples-for-map-growth/"
+    },
+    {
+      "id": "45253",
+      "title": "MAP Growth item parameter drift study",
+      "date": "2022-01-18",
+      "year": "2022",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Computer adaptive testing"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He"
+      ],
+      "nwea": [
+        "Wei He"
+      ],
+      "byline": "Wei He",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/MAP-Growth-Item-Parameter-Drift-2022-01-14.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-item-parameter-drift-study/"
+    },
+    {
+      "id": "45252",
+      "title": "Proportional relationships decluttered—at last!",
+      "date": "2022-01-13",
+      "year": "2022",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Math & STEM"
+      ],
+      "product": "",
+      "center": "",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/01/Proportional-relationships-decluttered-at-last_NWEA_Whitepaper-1.pdf",
+      "url": "https://www.nwea.org/research/publication/proportional-relationships-decluttered-at-last/"
+    },
+    {
+      "id": "45250",
+      "title": "Achievement and growth norms for course-specific MAP Growth Algebra 1, Geometry, and Algebra 2 tests",
+      "date": "2022-01-11",
+      "year": "2022",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Yeow Meng Thum",
+        "Wei He"
+      ],
+      "nwea": [
+        "Wei He"
+      ],
+      "byline": "Yeow Meng Thum, Wei He",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/2019-MAP-Growth-HS-Math-Norms-Report-FINAL.pdf",
+      "url": "https://www.nwea.org/research/publication/achievement-and-growth-norms-for-course-specific-map-growth-algebra-1-geometry-and-algebra-2-tests/"
+    },
+    {
+      "id": "45248",
+      "title": "MAP Growth K-2 item fit analysis study: A follow-up study",
+      "date": "2022-01-11",
+      "year": "2022",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Item response theory"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He"
+      ],
+      "nwea": [
+        "Wei He"
+      ],
+      "byline": "Wei He",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/MAP-Growth-K-2-Item-Fit-Analysis_Follow-up-Study-2020-05-05.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-k-2-item-fit-analysis-study-a-follow-up-study/"
+    },
+    {
+      "id": "45244",
+      "title": "MAP Growth linking studies: Intended uses, methodology, and recent studies",
+      "date": "2022-01-10",
+      "year": "2022",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Ann Hu"
+      ],
+      "nwea": [
+        "Ann Hu"
+      ],
+      "byline": "Ann Hu",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/MAP-Growth-Linking-Studies_Uses-Methodology-Recent-Studies-2021-11-15.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-linking-studies-intended-uses-methodology-and-recent-studies/"
+    },
+    {
+      "id": "45240",
+      "title": "Learning during COVID-19: An update on student achievement and growth at the start of the 2021-22 school year",
+      "date": "2021-12-13",
+      "year": "2021",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth modeling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Karyn Lewis",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Karyn Lewis, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/12/Learning-during-COVID19-An-update-on-student-achivement-and-growth-at-the-start-of-the-2021-2022-school-year-Research-Brief-1.pdf",
+      "url": "https://www.nwea.org/research/publication/learning-during-covid-19-an-update-on-student-achievement-and-growth-at-the-start-of-the-2021-22-school-year/"
+    },
+    {
+      "id": "45241",
+      "title": "Technical appendix for: Learning during COVID-19: An update on student achievement and growth at the start of the 2021-22 school year",
+      "date": "2021-12-13",
+      "year": "2021",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Growth modeling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/12/Technical-appendix-for-Learning-During-COVID-19-An-update-on-student-achievement-and-growth-at-the-start-of-the-2021-2022-school-year.2022.01.12.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-learning-during-covid-19-an-update-on-student-achievement-and-growth-at-the-start-of-the-2021-22-school-year/"
+    },
+    {
+      "id": "45238",
+      "title": "Automated item generation (AIG): A future for more equitable measurement",
+      "date": "2021-11-05",
+      "year": "2021",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "Item response theory"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Sarah Miller",
+        "Sylvia Scheuring",
+        "Abby Javurek",
+        "Jake McMillen",
+        "Emily Bo",
+        "Mary Ann Simpson"
+      ],
+      "nwea": [],
+      "byline": "Sarah Miller, Sylvia Scheuring, Abby Javurek, Jake McMillen, Emily Bo, Mary Ann Simpson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/automated-item-generation-aig-a-future-for-more-equitable-measurement/"
+    },
+    {
+      "id": "45236",
+      "title": "Equating WCPM scores across passages of MAP Reading Fluency",
+      "date": "2021-11-05",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Reading & language arts"
+      ],
+      "product": "MAP Reading Fluency",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Jing Chen",
+        "Mary Ann Simpson"
+      ],
+      "nwea": [],
+      "byline": "Jing Chen, Mary Ann Simpson",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/equating-words-correct-per-minute-scores-across-passages-of-MAP-Reading-Fluency_NWEA_researchreport.pdf",
+      "url": "https://www.nwea.org/research/publication/equating-words-correct-per-minute-wcpm-scores-across-passages-of-map-reading-fluency/"
+    },
+    {
+      "id": "45235",
+      "title": "The road to COVID recovery: How districts are seizing the once-in-a-generation opportunity to learn from ESSER interventions",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "High-growth schools & practices",
+        "Informing instruction"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "David Brackett",
+        "Jacob Cortez",
+        "Dan Goldhaber",
+        "Emily Morton"
+      ],
+      "nwea": [
+        "Emily Morton"
+      ],
+      "byline": "David Brackett, Jacob Cortez, Dan Goldhaber, Emily Morton",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-road-to-covid-recovery-how-districts-are-seizing-the-once-in-a-generation-opportunity-to-learn-from-esser-interventions/"
+    },
+    {
+      "id": "45234",
+      "title": "Variation in respondent speed and its implications: Evidence from an adaptive testing scenario",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Benjamin Domingue",
+        "Klint Kanopka",
+        "Ben Staug",
+        "James Soland",
+        "Megan Kuhfeld",
+        "Steven Wise",
+        "Chris Piech"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Benjamin Domingue, Klint Kanopka, Ben Staug, James Soland, Megan Kuhfeld, Steven Wise, Chris Piech",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/variation-in-respondent-speed-and-its-implications-evidence-from-an-adaptive-testing-scenario/"
+    },
+    {
+      "id": "45233",
+      "title": "The forgotten 20 percent: Achievement and growth in rural schools across the nation",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Angela Johnson, Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-forgotten-20-percent-achievement-and-growth-in-rural-schools-across-the-nation/"
+    },
+    {
+      "id": "45232",
+      "title": "Does four equal five? Implementation and outcomes of the four-day school week",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Informing instruction"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "M. Rebecca Kilburn",
+        "Andrea Phillips",
+        "Celia Gomez",
+        "Louis Mariano",
+        "Christopher Doss",
+        "Wendy Troxel",
+        "Emily Morton",
+        "Kevin Estes"
+      ],
+      "nwea": [
+        "Emily Morton"
+      ],
+      "byline": "M. Rebecca Kilburn, Andrea Phillips, Celia Gomez, Louis Mariano, Christopher Doss, Wendy Troxel, Emily Morton, Kevin Estes",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/does-four-equal-five-implementation-and-outcomes-of-the-four-day-school-week/"
+    },
+    {
+      "id": "45231",
+      "title": "Schools as refractors: Change in variance in children’s cognitive skills change while in school versus out",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Dennis Condron",
+        "Douglas Downey",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Dennis Condron, Douglas Downery, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/schools-as-refractors-change-in-variance-in-childrens-cognitive-skills-change-while-in-school-versus-out/"
+    },
+    {
+      "id": "45230",
+      "title": "A method for identifying partial test-taking engagement",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-method-for-identifying-partial-test-taking-engagement/"
+    },
+    {
+      "id": "45229",
+      "title": "Family perceptions of participating in a structured summer kindergarten transition program",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Early learning",
+        "Empowering educators"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Christopher Merideth",
+        "Beth Cavanaugh",
+        "Sue Romas",
+        "Nicole Ralston",
+        "Eva Arias",
+        "Beth Tarasawa",
+        "Jacqueline Waggoner"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Christopher Merideth, Beth Cavanaugh, Sue Romas, Nicole Ralston, Eva Arias, Beth Tarasawa, Jacqueline Waggoner",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/family-perceptions-of-participating-in-a-structured-summer-kindergarten-transition-program/"
+    },
+    {
+      "id": "45228",
+      "title": "Disparities and discrimination in student discipline by race and family income",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Nathan Barrett",
+        "Andrew McEachin",
+        "Jonathan Mills",
+        "Jon Valant"
+      ],
+      "nwea": [],
+      "byline": "Nathan Barrett, Andrew McEachin, Jonathan Mills, Jon Valant",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/disparities-and-discrimination-in-student-discipline-by-race-and-family-income/"
+    },
+    {
+      "id": "45227",
+      "title": "Predictors and consequences of school mobility in middle childhood",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Middle school",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Deborah Lowe Vandell",
+        "Megan Kuhfeld",
+        "Elizabeth Gershoff",
+        "Robert Crosnoe"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Deborah Lowe Vandell, Megan Kuhfeld, Elizabeth Gershoff, Robert Crosnoe",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/predictors-and-consequences-of-school-mobility-in-middle-childhood/"
+    },
+    {
+      "id": "45225",
+      "title": "Six insights regarding test-taking disengagement",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/six-insights-regarding-test-taking-disengagement/"
+    },
+    {
+      "id": "45224",
+      "title": "The impact of disengaged test taking on a state’s accountability test results",
+      "date": "2021-11-01",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Jonghwan (Jay) Lee",
+        "Sukkeun Im"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise, Jonghwan (Jay) Lee, Sukkeun Im",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-impact-of-disengaged-test-taking-on-a-states-accountability-test-results/"
+    },
+    {
+      "id": "45219",
+      "title": "Technical appendix for: Learning during COVID-19: Reading and math achievement in the 2020-2021 school year",
+      "date": "2021-07-28",
+      "year": "2021",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/Technical-appendix-for-Learning-during-COVID19-Reading-and-math-achievement-in-the-2020-2021-school-year.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-learning-during-covid-19-reading-and-math-achievement-in-the-2020-2021-school-year/"
+    },
+    {
+      "id": "45216",
+      "title": "Learning during COVID-19: Reading and math achievement in the 2020-2021 school year",
+      "date": "2021-07-28",
+      "year": "2021",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/07/Learning-during-COVID-19-Reading-and-math-achievement-in-the-2020-2021-school-year.research-brief-1.pdf",
+      "url": "https://www.nwea.org/research/publication/learning-during-covid-19-reading-and-math-achievement-in-the-2020-2021-school-year/"
+    },
+    {
+      "id": "45221",
+      "title": "Transforming education through COVID-19 recovery and learning acceleration: research findings, policy recommendations, and lessons from the ground",
+      "date": "2021-07-23",
+      "year": "2021",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Michael Conner, PhD",
+        "Beth Tarasawa",
+        "Deb Delisle",
+        "Janet Murguía",
+        "Chris Minnich",
+        "Marc Morial"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Michael Conner, PhD, Beth Tarasawa, Deb Delisle, Janet Murguía, Chris Minnich, Marc Morial",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/transforming-education-through-covid-19-recovery-and-learning-acceleration-research-findings-policy-recommendations-and-lessons-from-the-ground/"
+    },
+    {
+      "id": "45211",
+      "title": "Progress monitoring measures in  mathematics: a review of the literature.",
+      "date": "2021-07-14",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Math & STEM",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/progress-monitoring-measures-in-mathematics-a-review-of-the-literature/"
+    },
+    {
+      "id": "45204",
+      "title": "Understanding the initial educational impacts of COVID-19  on communities of color",
+      "date": "2021-06-25",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Erik Ruzek",
+        "Karyn Lewis",
+        "James Soland",
+        "Angela Johnson",
+        "Beth Tarasawa",
+        "Lindsay Dworkin"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Beth Tarasawa"
+      ],
+      "byline": "Megan Kuhfeld, Erik Ruzek, Karyn Lewis, James Soland, Angela Johnson, Beth Tarasawa, Lindsay Dworkin",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/Understanding-the-initial-educational-impacts-of-COVID19-on-communities-of-color.Resear-hBrief.pdf",
+      "url": "https://www.nwea.org/research/publication/understanding-the-initial-educational-impacts-of-covid-19-on-communities-of-color/"
+    },
+    {
+      "id": "45202",
+      "title": "Academic growth for students with disabilities: Lessons from school-year learning gains and summer learning loss—Implications for COVID-19 recovery and beyond",
+      "date": "2021-06-07",
+      "year": "2021",
+      "type": "Policy brief",
+      "types": [
+        "Policy brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/academic-growth-for-students-with-disabilities-lessons-from-school-year-learning-gains-and-summer-learning-loss-implications-for-covid-19-recovery-and-beyond/"
+    },
+    {
+      "id": "45201",
+      "title": "Exploring the educational impacts of COVID-19",
+      "date": "2021-05-27",
+      "year": "2021",
+      "type": "Data visualization",
+      "types": [
+        "Data visualization"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Innovations in reporting & assessment"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Greg King"
+      ],
+      "nwea": [],
+      "byline": "Greg King",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/exploring-the-educational-impacts-of-covid-19/"
+    },
+    {
+      "id": "45200",
+      "title": "Understanding differential growth during school years and summers for students in special education",
+      "date": "2021-05-27",
+      "year": "2021",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Equity",
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Elizabeth Barker"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson, Elizabeth Barker",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education-paper/"
+    },
+    {
+      "id": "45197",
+      "title": "Understanding differential growth during school years and summers for students in special education",
+      "date": "2021-05-26",
+      "year": "2021",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Elizabeth Barker"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson, Elizabeth Barker",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/05/Understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education_NWEA_Research-Brief_Center-for-School-and-Student-Progress.pdf",
+      "url": "https://www.nwea.org/research/publication/understanding-differential-growth-during-school-years-and-summers-for-students-in-special-education/"
+    },
+    {
+      "id": "45196",
+      "title": "Do students rapidly guess repeatedly over time? A longitudinal analysis of student test disengagement, background, and attitudes",
+      "date": "2021-05-24",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/do-students-rapidly-guess-repeatedly-over-time-a-longitudinal-analysis-of-student-test-disengagement-background-and-attitudes-presentation/"
+    },
+    {
+      "id": "45195",
+      "title": "Avoiding bias from sum scores in growth estimates: An examination of IRT-based approaches to scoring longitudinal survey responses",
+      "date": "2021-05-24",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/avoiding-bias-from-sum-scores-in-growth-estimates/"
+    },
+    {
+      "id": "45193",
+      "title": "Measuring middle school achievement trajectories for college readiness",
+      "date": "2021-05-22",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "College & career readiness",
+        "Equity",
+        "Middle school"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Megan Kuhfeld",
+        "Greg King"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Angela Johnson, Megan Kuhfeld, Greg King",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/measuring-middle-school-achievement-trajectories-for-college-readiness/"
+    },
+    {
+      "id": "45192",
+      "title": "A multi-rater latent growth curve model",
+      "date": "2021-05-22",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-multi-rater-latent-growth-curve-model/"
+    },
+    {
+      "id": "45191",
+      "title": "Comparing different response time threshold setting methods to detect low effort on a large-scale assessment",
+      "date": "2021-05-21",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld",
+        "Joseph Rios"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld, Joseph Rios",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/comparing-different-response-time-threshold-setting-methods-to-detect-low-effort-on-a-large-scale-assessment/"
+    },
+    {
+      "id": "45190",
+      "title": "The learning curve: Revisiting within-year linear growth assumptions",
+      "date": "2021-05-21",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/35099/"
+    },
+    {
+      "id": "45188",
+      "title": "Supporting COVID-19 recovery for students with disabilities: Research findings, policy recommendations, and lessons from the ground",
+      "date": "2021-05-21",
+      "year": "2021",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Elizabeth Barker",
+        "Angela Johnson",
+        "Meghan Whittaker, Esq.",
+        "Michael K. Yudin",
+        "Phillip Lovell",
+        "Jeremy Boerner"
+      ],
+      "nwea": [],
+      "byline": "Elizabeth Barker, Angela Johnson, Meghan Whittaker, Esq., Michael K. Yudin, Phillip Lovell, Jeremy Boerner",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/supporting-covid-19-recovery-for-students-with-disabilities-research-findings-policy-recommendations-and-lessons-from-the-ground/"
+    },
+    {
+      "id": "45185",
+      "title": "User guide for interpreting the NWEA state dashboard: Exploring the educational  impacts of COVID-19",
+      "date": "2021-05-21",
+      "year": "2021",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Innovations in reporting & assessment"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Greg King"
+      ],
+      "nwea": [],
+      "byline": "Greg King",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/05/User-guide-for-interpreting-the-NWEA-state-dashboard-Exploring-the-educational-impacts-of-COVID-19_NWEA_Guide.2021.07.pdf",
+      "url": "https://www.nwea.org/research/publication/user-guide-for-interpreting-the-nwea-state-dashboard-exploring-the-educational-impacts-of-covid-19/"
+    },
+    {
+      "id": "45180",
+      "title": "Robust IRT scaling: Considerations in constructing item bank from tests across years",
+      "date": "2021-05-20",
+      "year": "2021",
+      "type": "Presentation paper",
+      "types": [
+        "Presentation paper"
+      ],
+      "cls": [
+        "Conference paper"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Item response theory",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Jungnam Kim",
+        "Dong-In Kim",
+        "Furong Gao"
+      ],
+      "nwea": [],
+      "byline": "Jungnam Kim, Dong-In Kim, Furong Gao",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/Robust-IRT-Scaling_NWEA_conferencePaper.pdf",
+      "url": "https://www.nwea.org/research/publication/robust-irt-scaling-considerations-in-constructing-item-bank-from-tests-across-years/"
+    },
+    {
+      "id": "45175",
+      "title": "From through-course summative to adaptive through-year models for large-scale assessment: A literature review",
+      "date": "2021-05-20",
+      "year": "2021",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Test design"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Garron Gianopulos"
+      ],
+      "nwea": [],
+      "byline": "Garron Gianopulos",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/From-Through-Course-Summative-to-Adaptive-Through-Year-Models-for-Large-scale-Assessment_NWEA_literatureReview.pdf",
+      "url": "https://www.nwea.org/research/publication/from-through-course-summative-to-adaptive-through-year-models-for-large-scale-assessment-a-literature-review/"
+    },
+    {
+      "id": "45174",
+      "title": "Arguing about the effectiveness of assessments for the classroom",
+      "date": "2021-05-20",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Learning standards & alignment",
+        "Test design"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Garron Gianopulos"
+      ],
+      "nwea": [],
+      "byline": "Garron Gianopulos",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/arguing-about-the-effectiveness-of-assessments-for-the-classroom/"
+    },
+    {
+      "id": "45169",
+      "title": "MAP Growth K–2 item fit analysis study",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Item response theory"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He"
+      ],
+      "nwea": [
+        "Wei He"
+      ],
+      "byline": "Wei He",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/MAP-Growth-K-2-Item-Fit-Analysis-2019-05-17-V2_NWEA_report.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-k-2-item-fit-analysis-study/"
+    },
+    {
+      "id": "45167",
+      "title": "A comparison of item parameter estimates in Pychometrik and the existing item calibration tool",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Item response theory"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He",
+        "Patrick Meyer",
+        "Russ Grandgeorge",
+        "Emily Bo"
+      ],
+      "nwea": [
+        "Wei He",
+        "Patrick Meyer"
+      ],
+      "byline": "Wei He, Patrick Meyer, Russ Grandgeorge, Emily Bo",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/Pychometrik-Item-Parameter-Estimate-Comparability-Study-2021-01-15_NWEA_report.pdf",
+      "url": "https://www.nwea.org/research/publication/a-comparison-of-item-parameter-estimates-in-pychometrik-and-the-existing-item-calibration-tool/"
+    },
+    {
+      "id": "45165",
+      "title": "MAP Growth universal screening benchmarks: Establishing MAP Growth as an effective universal screener",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Guidance"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Wei He",
+        "Patrick Meyer"
+      ],
+      "nwea": [
+        "Wei He",
+        "Patrick Meyer"
+      ],
+      "byline": "Wei He, Patrick Meyer",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/MAP-Growth-Universal-Screening-Benchmarks-2021-03-12_NWEA_report-with-Memo.pdf",
+      "url": "https://www.nwea.org/research/publication/map-growth-universal-screening-benchmarks-establishing-map-growth-as-an-effective-universal-screener/"
+    },
+    {
+      "id": "45164",
+      "title": "A large-scale, long-term study of scale drift: The micro view and the macro view",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Presentation paper",
+      "types": [
+        "Presentation paper"
+      ],
+      "cls": [
+        "Conference paper"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-large-scale-long-term-study-of-scale-drift-the-micro-view-and-the-macro-view/"
+    },
+    {
+      "id": "45162",
+      "title": "Simulation study for evaluating MAP Growth item pools with grade-level constraints",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Xueming (Sylvia) Li",
+        "Patrick Meyer"
+      ],
+      "nwea": [
+        "Xueming (Sylvia) Li",
+        "Patrick Meyer"
+      ],
+      "byline": "Xueming (Sylvia) Li, Patrick Meyer",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/MAP-Growth-Grade-Level-Simulation-Study-2020-01-23_NWEA_report.pdf",
+      "url": "https://www.nwea.org/research/publication/simulation-study-for-evaluating-map-growth-item-pools-with-grade-level-constraints/"
+    },
+    {
+      "id": "45161",
+      "title": "A longitudinal study of reading growth for students with visual impairments",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Accessibility",
+        "Growth",
+        "Reading & language arts"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Beth Boroson",
+        "Elizabeth Barker",
+        "Xueming (Sylvia) Li"
+      ],
+      "nwea": [
+        "Xueming (Sylvia) Li"
+      ],
+      "byline": "Beth Boroson, Elizabeth Barker, Xueming (Sylvia) Li",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-longitudinal-study-of-reading-growth-for-students-with-visual-impairments-2/"
+    },
+    {
+      "id": "45159",
+      "title": "Spanish MAP Growth Reading technical report",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Technical report",
+      "types": [
+        "Technical report"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "Assessments in Spanish",
+        "Computer adaptive testing",
+        "Test design"
+      ],
+      "product": "MAP Growth; MAP Spanish",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Shudong Wang",
+        "Patrick Meyer",
+        "Carmen Hall",
+        "Teresa Krastel",
+        "Adam Withycombe"
+      ],
+      "nwea": [
+        "Patrick Meyer"
+      ],
+      "byline": "Shudong Wang, Patrick Meyer, Carmen Hall, Teresa Krastel, Adam Withycombe",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/Spanish-MAP-Growth-Reading-Technical-Report-2021-03-17.pdf",
+      "url": "https://www.nwea.org/research/publication/spanish-map-growth-reading-technical-report/"
+    },
+    {
+      "id": "45157",
+      "title": "Calibration of Spanish MAP Growth Math tests",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Assessments in Spanish",
+        "Item response theory"
+      ],
+      "product": "MAP Growth; MAP Spanish",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Shudong Wang",
+        "Xueming (Sylvia) Li"
+      ],
+      "nwea": [
+        "Xueming (Sylvia) Li"
+      ],
+      "byline": "Shudong Wang, Xueming (Sylvia) Li",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/Spanish-MAP-Growth-Math-Calibration-2020-06-15_NWEA_report.pdf",
+      "url": "https://www.nwea.org/research/publication/calibration-of-spanish-map-growth-math-tests/"
+    },
+    {
+      "id": "45156",
+      "title": "Effects of computerized adaptive test designs on content coverage and efficiency of reading comprehension test with passages aligned to Common Core State Standards",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Presentation paper",
+      "types": [
+        "Presentation paper"
+      ],
+      "cls": [
+        "Conference paper"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Learning standards & alignment",
+        "Test design"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Shudong Wang",
+        "Hong Jiao"
+      ],
+      "nwea": [],
+      "byline": "Shudong Wang, Hong Jiao",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/effects-of-computerized-adaptive-test-designs-on-content-coverage-and-efficiency-of-reading-comprehension-test-with-passages-aligned-to-common-core-state-standards/"
+    },
+    {
+      "id": "45154",
+      "title": "The effect of nonignorable missing data in computerized adaptive test on item fit statistics for polytomous item response models",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Presentation paper",
+      "types": [
+        "Presentation paper"
+      ],
+      "cls": [
+        "Conference paper"
+      ],
+      "themes": [
+        "Computer adaptive testing",
+        "Item response theory",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Shudong Wang",
+        "Hong Jiao"
+      ],
+      "nwea": [],
+      "byline": "Shudong Wang, Hong Jiao",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-effect-of-nonignorable-missing-data-in-computerized-adaptive-test-on-item-fit-statistics-for-polytomous-item-response-models/"
+    },
+    {
+      "id": "45153",
+      "title": "Examine construct validity of computerized adaptive test in K–12 assessments",
+      "date": "2021-05-19",
+      "year": "2021",
+      "type": "Presentation paper",
+      "types": [
+        "Presentation paper"
+      ],
+      "cls": [
+        "Conference paper"
+      ],
+      "themes": [
+        "Computer adaptive testing"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Shudong Wang",
+        "Hong Jiao"
+      ],
+      "nwea": [],
+      "byline": "Shudong Wang, Hong Jiao",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2014/07/Examine-Construct-Validity-of-Computerized-Adaptive-Test-in-K-12-Assessments.pdf",
+      "url": "https://www.nwea.org/research/publication/examine-construct-validity-of-computerized-adaptive-test-in-k-12-assessments/"
+    },
+    {
+      "id": "45147",
+      "title": "Validation of longitudinal achievement constructs of vertically scaled computerised adaptive tests: a multiple-indicator, latent-growth modelling approach",
+      "date": "2021-05-18",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Shudong Wang",
+        "Hong Jiao",
+        "Liru Zhang"
+      ],
+      "nwea": [],
+      "byline": "Shudong Wang, Hong Jiao, Liru Zhang",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2014/07/Validation-of-longitudinal-achievement-constructs.pdf",
+      "url": "https://www.nwea.org/research/publication/validation-of-longitudinal-achievement-constructs-of-vertically-scaled-computerised-adaptive-tests-a-multiple-indicator-latent-growth-modelling-approach/"
+    },
+    {
+      "id": "45146",
+      "title": "Construct validity and measurement invariance of computerized adaptive testing: Application to Measures of Academic Progress (MAP) using confirmatory factor analysis",
+      "date": "2021-05-18",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Test design"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Shudong Wang",
+        "Marth S. McCall",
+        "Hong Jiao",
+        "Gregg Harris"
+      ],
+      "nwea": [],
+      "byline": "Shudong Wang, Marth S. McCall, Hong Jiao, Gregg Harris",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2014/07/Construct-Validity-and-Measurement-Variance.pdf",
+      "url": "https://www.nwea.org/research/publication/construct-validity-and-measurement-invariance-of-computerized-adaptive-testing-application-to-measures-of-academic-progress-map-using-confirmatory-factor-analysis/"
+    },
+    {
+      "id": "45145",
+      "title": "A semi-supervised learning-based diagnostic classification method using artificial neural networks",
+      "date": "2021-05-18",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Kang Xue",
+        "Laine Bradshaw"
+      ],
+      "nwea": [],
+      "byline": "Kang Xue, Laine Bradshaw",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-semi-supervised-learning-based-diagnostic-classification-method-using-artificial-neural-networks/"
+    },
+    {
+      "id": "45144",
+      "title": "Predicting the difficulty and response time of multiple choice questions using transfer learning",
+      "date": "2021-05-18",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Kang Xue",
+        "Victoria Yaneva",
+        "Christopher Runyon",
+        "Peter Baldwin"
+      ],
+      "nwea": [],
+      "byline": "Kang Xue, Victoria Yaneva, Christopher Runyon, Peter Baldwin",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/predicting-the-difficulty-and-response-time-of-multiple-choice-questions-using-transfer-learning/"
+    },
+    {
+      "id": "45143",
+      "title": "Semi-supervised learning method for adjusting biased item difficulty estimates caused by nonignorable missingness under 2PL-IRT model",
+      "date": "2021-05-18",
+      "year": "2021",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "",
+      "authors": [
+        "Kang Xue",
+        "Walter Liete",
+        "Anne Corrine Huggins-Manley"
+      ],
+      "nwea": [],
+      "byline": "Kang Xue, Walter Liete, Anne Corrine Huggins-Manley",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/semi-supervised-learning-method-for-adjusting-biased-item-difficulty-estimates-caused-by-nonignorable-missingness-under-2pl-irt-model-2/"
+    },
+    {
+      "id": "45140",
+      "title": "Comparability of MAP Growth tests administered through different technology and psychometric infrastructure: An engine evaluation study based on empirical data",
+      "date": "2021-05-18",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Test design"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Patrick Meyer",
+        "Emily Bo"
+      ],
+      "nwea": [
+        "Patrick Meyer"
+      ],
+      "byline": "Patrick Meyer, Emily Bo",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/Project-Altair-Engine-Evaluations_MAP-Growth-COLO-CBE-Comparability-2020-09-29_NWEA_report.pdf",
+      "url": "https://www.nwea.org/research/publication/comparability-of-map-growth-tests-administered-through-different-technology-and-psychometric-infrastructure-an-engine-evaluation-study-based-on-empirical-data/"
+    },
+    {
+      "id": "45137",
+      "title": "Comparability of MAP Growth tests administered through different technology and psychometric infrastructure: A simulation study",
+      "date": "2021-05-18",
+      "year": "2021",
+      "type": "Research report",
+      "types": [
+        "Research report"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Test design"
+      ],
+      "product": "MAP Growth",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Ann Hu",
+        "Patrick Meyer",
+        "May Chien"
+      ],
+      "nwea": [
+        "Ann Hu",
+        "Patrick Meyer"
+      ],
+      "byline": "Ann Hu, Patrick Meyer, May Chien",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/06/Project-Altair-Simulations_MAP-Growth-COLO-CBE-Comparability-2021-03-11_NWEA_report.pdf",
+      "url": "https://www.nwea.org/research/publication/comparability-of-map-growth-tests-administered-through-different-technology-and-psychometric-infrastructure-a-simulation-study/"
+    },
+    {
+      "id": "45134",
+      "title": "Incorporating person covariates and response times as collateral information to improve person and item parameter estimations",
+      "date": "2021-05-17",
+      "year": "2021",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "Test design"
+      ],
+      "product": "",
+      "center": "Measurement & Psychometrics",
+      "authors": [
+        "Shudong Wang",
+        "Hong Jiao"
+      ],
+      "nwea": [],
+      "byline": "Shudong Wang, Hong Jiao",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/incorporating-person-covariates-and-response-times-as-collateral-information-to-improve-person-and-item-parameter-estimations/"
+    },
+    {
+      "id": "45129",
+      "title": "Preparing early learners: Considerations for supporting the kindergarten class of 2021",
+      "date": "2021-03-31",
+      "year": "2021",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Early learning",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Tarasawa",
+        "Angela Johnson",
+        "Christine Yankel"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Beth Tarasawa, Angela Johnson, Christine Yankel",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2021/03/Preparing-early-learners-Considerations-for-supporting-the-kindergarten-class-of-2021_NWEA_Research-Collaborative-Brief.pdf",
+      "url": "https://www.nwea.org/research/publication/preparing-early-learners-considerations-for-supporting-the-kindergarten-class-of-2021/"
+    },
+    {
+      "id": "45120",
+      "title": "Within-year achievement gains for English Learners",
+      "date": "2021-02-04",
+      "year": "2021",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/within-year-achievement-gains-for-english-learners/"
+    },
+    {
+      "id": "45119",
+      "title": "Learning during COVID-19: Initial findings on students’ reading and math achievement and growth",
+      "date": "2020-12-15",
+      "year": "2020",
+      "type": "Data visualization",
+      "types": [
+        "Data visualization"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Dave Moyer"
+      ],
+      "nwea": [],
+      "byline": "Dave Moyer",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/learning-during-covid-19-initial-findings-on-students-reading-and-math-achievement-and-growth-visualization/"
+    },
+    {
+      "id": "45118",
+      "title": "NISS Ingram Olkin Forum: COVID and the Schools: Modeling Openings, Closings, and Learning Loss",
+      "date": "2020-12-11",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/niss-ingram-olkin-forum-covid-and-the-schools-modeling-openings-closings-and-learning-loss/"
+    },
+    {
+      "id": "45117",
+      "title": "When does inequality grow? A seasonal analysis of racial/ethnic disparities in learning from kindergarten through eighth grade",
+      "date": "2020-12-11",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Dennis Condron",
+        "Douglas Downey"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, Dennis Condron, Doug Downey",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/when-does-inequality-grow-a-seasonal-analysis-of-racial-ethnic-disparities-in-learning-from-kindergarten-through-eighth-grade/"
+    },
+    {
+      "id": "45107",
+      "title": "Learning during COVID-19: Initial findings on students’ reading and math achievement and growth",
+      "date": "2020-12-01",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa",
+        "Angela Johnson",
+        "Erik Ruzek",
+        "Karyn Lewis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa",
+        "Karyn Lewis"
+      ],
+      "byline": "Megan Kuhfeld, Beth Tarasawa, Angela Johnson, Erik Ruzek, Karyn Lewis",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/11/Collaborative-brief-Learning-during-COVID-19.NOV2020.pdf",
+      "url": "https://www.nwea.org/research/publication/learning-during-covid-19-initial-findings-on-students-reading-and-math-achievement-and-growth/"
+    },
+    {
+      "id": "45105",
+      "title": "Fall 2019 to fall 2020 MAP Growth attrition analysis",
+      "date": "2020-12-01",
+      "year": "2020",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Angela Johnson, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/10/Technical-brief-Fall-2019-to-fall-2020-MAP-Growth-attrition-analysis-NOV2020.pdf",
+      "url": "https://www.nwea.org/research/publication/fall-2019-to-fall-2020-map-growth-attrition-analysis/"
+    },
+    {
+      "id": "45103",
+      "title": "Technical appendix for: Learning during COVID-19: Initial findings on students’ reading and math achievement and growth",
+      "date": "2020-12-01",
+      "year": "2020",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/Technical-brief-Technical-appendix-for-Learning-during-COVID-19-Initial-findings-on-students-reading-and-math-achievement-and-growth-NOV2020.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-learning-during-covid-19-initial-findings-on-students-reading-and-math-achievement-and-growth/"
+    },
+    {
+      "id": "45101",
+      "title": "Comparability analysis of remote and in-person MAP Growth testing in fall 2020",
+      "date": "2020-12-01",
+      "year": "2020",
+      "type": "Technical brief",
+      "types": [
+        "Technical brief"
+      ],
+      "cls": [
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Patrick Meyer",
+        "Beth Tarasawa"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Karyn Lewis",
+        "Patrick Meyer",
+        "Beth Tarasawa"
+      ],
+      "byline": "Megan Kuhfeld, Karyn Lewis, Patrick Meyer, Beth Tarasawa",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/Technical-brief-Comparability-analysis-of-remote-and-inperson-MAP-Growth-testing-in-fall-2020-NOV2020.pdf",
+      "url": "https://www.nwea.org/research/publication/comparability-analysis-of-remote-and-in-person-map-growth-testing-in-fall-2020/"
+    },
+    {
+      "id": "45100",
+      "title": "A cessation of measurement: Identifying test taker disengagement using response time",
+      "date": "2020-11-02",
+      "year": "2020",
+      "type": "Book",
+      "types": [
+        "Book"
+      ],
+      "cls": [
+        "Book"
+      ],
+      "themes": [
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time-book/"
+    },
+    {
+      "id": "45097",
+      "title": "Projecting the potential impact of COVID-19 school closures on academic achievement",
+      "date": "2020-11-02",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland",
+        "Beth Tarasawa",
+        "Angela Johnson",
+        "Erik Ruzek",
+        "Jing Liu"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa"
+      ],
+      "byline": "Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/projecting-the-potential-impact-of-covid-19-school-closures-on-academic-achievement/"
+    },
+    {
+      "id": "45096",
+      "title": "Growth patterns and distance learning tips for students who are deaf and hard of hearing webinar",
+      "date": "2020-11-02",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "Accessibility",
+        "Equity",
+        "Growth modeling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Stephanie Cawthon",
+        "Elizabeth Barker",
+        "Johny Daniel",
+        "North Cooc",
+        "Jessica Meissner"
+      ],
+      "nwea": [],
+      "byline": "Stephanie Cawthon, Elizabeth Barker, Johny Daniel, North Cooc, Jessica Meissner",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/growth-patterns-and-distance-learning-tips-for-students-who-are-deaf-and-hard-of-hearing-webinar/"
+    },
+    {
+      "id": "45095",
+      "title": "Dual language education and academic growth",
+      "date": "2020-11-02",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/dual-language-education-and-academic-growth/"
+    },
+    {
+      "id": "45094",
+      "title": "Dual identification? The effects of English Learner status on special education placement",
+      "date": "2020-11-02",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Mark Murphy",
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Mark Murphy, Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/dual-identification-the-effects-of-english-learner-status-on-special-education-placement/"
+    },
+    {
+      "id": "45093",
+      "title": "Persistence and convergence: The end of kindergarten outcomes of pre-K graduates and their nonattending peers",
+      "date": "2020-11-02",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Early learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Erik Ruzek",
+        "Arya Ansari",
+        "Robert Pianta",
+        "Jessica Whittaker",
+        "Virginia Vitiello"
+      ],
+      "nwea": [],
+      "byline": "Erik Ruzek, Arya Ansari, Robert Pianta, Jessica Whittaker, Virginia Vitiello",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/persistence-and-convergence-the-end-of-kindergarten-outcomes-of-pre-k-graduates-and-their-nonattending-peers/"
+    },
+    {
+      "id": "45092",
+      "title": "Projecting the impact of the COVID-19 spring school closures on student learning",
+      "date": "2020-10-29",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/projecting-the-impact-of-the-covid-19-spring-school-closures-on-student-learning/"
+    },
+    {
+      "id": "45091",
+      "title": "An intelligent CAT that can deal with disengaged test taking",
+      "date": "2020-10-02",
+      "year": "2020",
+      "type": "Book",
+      "types": [
+        "Book"
+      ],
+      "cls": [
+        "Book"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/an-intelligent-cat-that-can-deal-with-disengaged-test-taking/"
+    },
+    {
+      "id": "45090",
+      "title": "Assessment education: Bridging research, theory, and practice to promote equity and student learning",
+      "date": "2020-10-02",
+      "year": "2020",
+      "type": "Book",
+      "types": [
+        "Book"
+      ],
+      "cls": [
+        "Book"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Tarasawa",
+        "Amelia Gotwals",
+        "Cara Jackson"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Beth Tarasawa, Amelia Gotwals, Cara Jackson",
+      "editors": true,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/assessment-education-bridging-research-theory-and-practice-to-promote-equity-and-student-learning/"
+    },
+    {
+      "id": "45089",
+      "title": "Mind the kinder-gap: New data on children’s math and reading skills as they enter kindergarten",
+      "date": "2020-10-02",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Early learning",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Christine Pitts",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Christine Pitts, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/mind-the-kinder-gap-new-data-on-childrens-math-and-reading-skills-as-they-enter-kindergarten/"
+    },
+    {
+      "id": "45088",
+      "title": "A “Lost Year” of Data? What Disruptions From COVID-19 Mean For Education Research",
+      "date": "2020-10-01",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Empowering educators",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Matthew Soldner",
+        "Megan Kuhfeld",
+        "Dan Goldhaber",
+        "Constance Lindsay",
+        "Allison Crean Davis"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Matthew Soldner, Megan Kuhfeld, Dan Goldhaber, Constance Lindsay, Allison Crean Davis",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-lost-year-of-data-what-disruptions-from-covid-19-mean-for-education-research/"
+    },
+    {
+      "id": "45087",
+      "title": "Do students rapidly guess repeatedly over time? A longitudinal analysis of student test disengagement, background, and attitudes",
+      "date": "2020-10-01",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "James Soland, Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/do-students-rapidly-guess-repeatedly-over-time-a-longitudinal-analysis-of-student-test-disengagement-background-and-attitudes/"
+    },
+    {
+      "id": "45086",
+      "title": "Using retest data to evaluate and improve effort-moderated scoring",
+      "date": "2020-10-01",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/using-retest-data-to-evaluate-and-improve-effort-moderated-scoring-presentation/"
+    },
+    {
+      "id": "45085",
+      "title": "Parameter estimation accuracy of the effort-moderated IRT model under multiple assumption violations",
+      "date": "2020-10-01",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Joseph Rios"
+      ],
+      "nwea": [],
+      "byline": "James Soland, Joseph Rios",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/parameter-estimation-accuracy-of-the-effort-moderated-irt-model-under-multiple-assumption-violations/"
+    },
+    {
+      "id": "45084",
+      "title": "A cessation of measurement: Identifying test taker disengagement using response time",
+      "date": "2020-10-01",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-cessation-of-measurement-identifying-test-taker-disengagement-using-response-time/"
+    },
+    {
+      "id": "45082",
+      "title": "Identifying students who are off-track academically in 9th grade: The role of social-emotional learning trajectories",
+      "date": "2020-10-01",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/workingpaper-identifying-students-who-are-off-track-academically.pdf",
+      "url": "https://www.nwea.org/research/publication/identifying-students-who-are-off-track-academically-in-9th-grade-the-role-of-social-emotional-learning-trajectories/"
+    },
+    {
+      "id": "45077",
+      "title": "Correlates of change in elementary students’ perceptions of interactions with their teacher",
+      "date": "2020-08-25",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Catherine Corbin",
+        "Erik Ruzek",
+        "Jason Downer",
+        "Amy Lowenstein",
+        "Joshua Brown"
+      ],
+      "nwea": [],
+      "byline": "Catherine Corbin, Erik Ruzek, Jason Downer, Amy Lowenstein, Joshua Brown",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/correlates-of-change-in-elementary-students-perceptions-of-interactions-with-their-teacher/"
+    },
+    {
+      "id": "45064",
+      "title": "NWEA 2020 MAP Growth Achievement Status and Growth Norms for Students and Schools",
+      "date": "2020-08-05",
+      "year": "2020",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/nwea-2020-map-growth-achievement-status-and-growth-norms-for-students-and-schools/"
+    },
+    {
+      "id": "45070",
+      "title": "Using retest data to evaluate and improve effort-moderated scoring",
+      "date": "2020-08-03",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/using-retest-data-to-evaluate-and-improve-effort-moderated-scoring/"
+    },
+    {
+      "id": "45069",
+      "title": "Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores",
+      "date": "2020-08-03",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores-journal/"
+    },
+    {
+      "id": "45061",
+      "title": "Research partnership map",
+      "date": "2020-06-26",
+      "year": "2020",
+      "type": "Data visualization",
+      "types": [
+        "Data visualization"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Greg King"
+      ],
+      "nwea": [],
+      "byline": "Greg King",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/research-partnership-map/"
+    },
+    {
+      "id": "45060",
+      "title": "How to promote equity in advanced coursework participation: Three strategies for closing the gaps—and retaining students",
+      "date": "2020-06-24",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Equity",
+        "High school"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Teresa Ketelsen",
+        "Beth Tarasawa"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Teresa Ketelsen, Beth Tarasawa",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/how-to-promote-equity-in-advanced-coursework-participation-three-strategies-for-closing-the-gaps-and-retaining-students/"
+    },
+    {
+      "id": "45058",
+      "title": "Looking back: how prior-year attendance impacts starting achievement",
+      "date": "2020-06-12",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "School & test engagement",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Shannon Bi",
+        "Emily Wolk"
+      ],
+      "nwea": [],
+      "byline": "Shannon Bi, Emily Wolk",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/workingpaper.looking-back-how-prior-year-attendance-impacts-starting-achievement.pdf",
+      "url": "https://www.nwea.org/research/publication/looking-back-how-prior-year-attendance-impacts-starting-achievement/"
+    },
+    {
+      "id": "45052",
+      "title": "The impact of test-taking disengagement on item content representation",
+      "date": "2020-06-09",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/ResearchbriefImpact-of-test-taking-disengagement.pdf",
+      "url": "https://www.nwea.org/research/publication/the-impact-of-test-taking-disengagement-on-item-content-representation-brief/"
+    },
+    {
+      "id": "45051",
+      "title": "Trends in children’s academic skills at school entry: 2010 to 2017",
+      "date": "2020-06-05",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Early learning",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland",
+        "Christine Pitts",
+        "Margaret Burchinal"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland, Christine Pitts, Margaret Burchinal",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-to-2017/"
+    },
+    {
+      "id": "45048",
+      "title": "Impacts of school entry age on academic growth through second grade",
+      "date": "2020-06-03",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Early learning",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Angela Johnson, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/researchbrief-impacts-of-school-entry-age-on-academic-growth-through-second-grade-2020.pdf",
+      "url": "https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-second-grade/"
+    },
+    {
+      "id": "45044",
+      "title": "Catching up or falling behind: Measuring middle school achievement trajectories for college readiness",
+      "date": "2020-05-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "College & career readiness",
+        "Middle school",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Megan Kuhfeld",
+        "Greg King"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Angela Johnson, Megan Kuhfeld, Greg King",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/catching-up-or-falling-behind-measuring-middle-school-achievement-trajectories-for-college-readiness/"
+    },
+    {
+      "id": "45043",
+      "title": "The effects of early college opportunities on English Learners",
+      "date": "2020-05-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity",
+        "High school"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Diana Mercado-Garcia"
+      ],
+      "nwea": [],
+      "byline": "Diana Mercado-Garcia",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-effects-of-early-college-opportunities-on-english-learners/"
+    },
+    {
+      "id": "45039",
+      "title": "Projecting the potential impacts of COVID-19 school closures on academic achievement",
+      "date": "2020-05-05",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland",
+        "Beth Tarasawa",
+        "Angela Johnson",
+        "Erik Ruzek",
+        "Jing Liu"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa"
+      ],
+      "byline": "Megan Kuhfeld, James Soland, Beth Tarasawa, Angela Johnson, Erik Ruzek, Jing Liu",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/projecting-the-potential-impacts-of-covid-19-school-closures-on-academic-achievement/"
+    },
+    {
+      "id": "45033",
+      "title": "Validation and applications of rapid guessing to detect test taker disengagement",
+      "date": "2020-04-30",
+      "year": "2020",
+      "type": "(untyped)",
+      "types": [
+        "(untyped)"
+      ],
+      "cls": [
+        "Unclassified"
+      ],
+      "themes": [
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
+    },
+    {
+      "id": "45028",
+      "title": "COVID-19 closures & learning loss",
+      "date": "2020-04-13",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Tarasawa",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Beth Tarasawa",
+        "Megan Kuhfeld"
+      ],
+      "byline": "Beth Tarasawa, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/covid-19-closures-learning-loss/"
+    },
+    {
+      "id": "45021",
+      "title": "Technical appendix for The COVID-19 slide: What summer learning loss can tell us about the potential impact of school closures on student academic achievement",
+      "date": "2020-04-09",
+      "year": "2020",
+      "type": "Technical brief; White paper",
+      "types": [
+        "Technical brief",
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief",
+        "Technical / psychometric"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa"
+      ],
+      "byline": "Megan Kuhfeld, Beth Tarasawa",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/COVID-technical-appendix_2020.04.08.pdf",
+      "url": "https://www.nwea.org/research/publication/technical-appendix-for-the-covid-19-slide-what-summer-learning-loss-can-tell-us-about-the-potential-impact-of-school-closures-on-student-academic-achievement/"
+    },
+    {
+      "id": "45018",
+      "title": "The COVID-19 slide: What summer learning loss can tell us about the potential impact of school closures on student academic achievement",
+      "date": "2020-04-08",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "COVID-19 & schools",
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa"
+      ],
+      "nwea": [
+        "Megan Kuhfeld",
+        "Beth Tarasawa"
+      ],
+      "byline": "Megan Kuhfeld, Beth Tarasawa",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/04/Collaborative-Brief_Covid19-Slide-APR20.pdf",
+      "url": "https://www.nwea.org/research/publication/the-covid-19-slide-what-summer-learning-loss-can-tell-us-about-the-potential-impact-of-school-closures-on-student-academic-achievement/"
+    },
+    {
+      "id": "45013",
+      "title": "The impact of a technology-enhanced math performance task on student cognitive engagement in mathematics",
+      "date": "2020-04-03",
+      "year": "2020",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Math & STEM",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Meg Guerreiro"
+      ],
+      "nwea": [],
+      "byline": "Meg Guerreiro",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-impact-of-a-technology-enhanced-math-performance-task-on-student-cognitive-engagement-in-mathematics/"
+    },
+    {
+      "id": "45012",
+      "title": "“No fun games”: Engagement effects of two gameful assessment prototypes",
+      "date": "2020-04-03",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Meg Guerreiro",
+        "Chase Nordengren"
+      ],
+      "nwea": [],
+      "byline": "Meg Guerreiro, Chase Nordengren",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/no-fun-games-engagement-effects-of-two-gameful-assessment-prototypes/"
+    },
+    {
+      "id": "45011",
+      "title": "Instructors’ technology experience and iPad delivered intervention implementation: A mixed methods replication study",
+      "date": "2020-04-03",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Lina Shanley",
+        "Mari Strand Cary",
+        "Ben Clarke",
+        "Meg Guerreiro",
+        "Michael Thier"
+      ],
+      "nwea": [],
+      "byline": "Lina Shanley, Mari Strand Cary, Ben Clarke, Meg Guerreiro, Michael Thier",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/instructors-technology-experience-and-ipad-delivered-intervention-implementation-a-mixed-methods-replication-study/"
+    },
+    {
+      "id": "45010",
+      "title": "Are all biases bad? Collaborative grounded theory in developmental evaluation of education policy",
+      "date": "2020-04-03",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Ross Anderson",
+        "Meg Guerreiro",
+        "Jo Smith"
+      ],
+      "nwea": [],
+      "byline": "Ross Anderson, Meg Guerreiro, Jo Smith",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/are-all-biases-bad-collaborative-grounded-theory-in-developmental-evaluation-of-education-policy/"
+    },
+    {
+      "id": "45007",
+      "title": "A longitudinal study of reading growth for students with visual impairments",
+      "date": "2020-04-02",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Accessibility",
+        "Equity",
+        "Reading & language arts"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Boroson",
+        "Elizabeth Barker",
+        "Xueming (Sylvia) Li"
+      ],
+      "nwea": [
+        "Xueming (Sylvia) Li"
+      ],
+      "byline": "Beth Boroson, Elizabeth Barker, Xueming Li",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-longitudinal-study-of-reading-growth-for-students-with-visual-impairments/"
+    },
+    {
+      "id": "45006",
+      "title": "Back-to-school accessibility checklist",
+      "date": "2020-04-02",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Accessibility"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Elizabeth Barker"
+      ],
+      "nwea": [],
+      "byline": "Elizabeth Barker",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/back-to-school-accessibility-checklist/"
+    },
+    {
+      "id": "44822",
+      "title": "Mapping the road to college",
+      "date": "2020-04-01",
+      "year": "2020",
+      "type": "Data visualization",
+      "types": [
+        "Data visualization"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "College & career readiness",
+        "High school",
+        "Innovations in reporting & assessment"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Greg King"
+      ],
+      "nwea": [],
+      "byline": "Greg King",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/mapping-the-road-to-college/"
+    },
+    {
+      "id": "45005",
+      "title": "The learning curve: Revisiting the assumption of linear growth across the school year",
+      "date": "2020-03-31",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-learning-curve-revisiting-the-assumption-of-linear-growth-across-the-school-year/"
+    },
+    {
+      "id": "45001",
+      "title": "Self-efficacy and the ELL achievement gap",
+      "date": "2020-03-31",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/self-efficacy-and-the-ell-achievement-gap/"
+    },
+    {
+      "id": "45000",
+      "title": "The impact of test-taking disengagement on item content representation",
+      "date": "2020-03-30",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-impact-of-test-taking-disengagement-on-item-content-representation/"
+    },
+    {
+      "id": "44999",
+      "title": "ELLs on the cusp: Should we reclassify?",
+      "date": "2020-03-30",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Claude Goldenberg"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson, Claude Goldenberg",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/ells-on-the-cusp-should-we-reclassify/"
+    },
+    {
+      "id": "44975",
+      "title": "Do response styles affect estimates of growth on social-emotional constructs? Evidence from four years of longitudinal survey scores",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/do-response-styles-affect-estimates-of-growth-on-social-emotional-constructs-evidence-from-four-years-of-longitudinal-survey-scores/"
+    },
+    {
+      "id": "44973",
+      "title": "Modeling student test-taking motivation in the context of an adaptive achievement test",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/workingpaper-motivation-adaptive-achievement-test-2015.pdf",
+      "url": "https://www.nwea.org/research/publication/modeling-student-test-taking-motivation-in-the-context-of-an-adaptive-achievement-test-paper/"
+    },
+    {
+      "id": "44971",
+      "title": "Reconciling long-term education policy goals with short-term school accountability models",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/workingpaper-reconciling-long-term-education-policy-goals-with-short-term-school-accountability-models-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/reconciling-long-term-education-policy-goals-with-short-term-school-accountability-models-paper/"
+    },
+    {
+      "id": "44970",
+      "title": "Estimating student growth on psychological and social-emotional constructs: A comparison of multiple scoring approaches",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/estimating-student-growth-on-psychological-and-social-emotional-constructs-a-comparison-of-multiple-scoring-approaches/"
+    },
+    {
+      "id": "44968",
+      "title": "School effectiveness, summer loss, and federal accountability: Applying the compound polynomialmodel in a program evaluation context",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/workingpaper-school-effectiveness-summer-loss-and-federal-accountability-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability-applying-the-compound-polynomialmodel-in-a-program-evaluation-context/"
+    },
+    {
+      "id": "44966",
+      "title": "The relationship between test-taking disengagement and performance on MAP Growth retests",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/workingpaper-the-relationship-between-test-taking-disengagement-and-performance-on-map-growth-retests-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/the-relationship-between-test-taking-disengagement-and-performance-on-map-growth-retests/"
+    },
+    {
+      "id": "44965",
+      "title": "Trends in children’s academic skills at school entry: 2010 – 2017",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Early learning",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland",
+        "Christine Pitts",
+        "Margaret Burchinal"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland, Christine Pitts, Margaret Burchinal",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017-paper/"
+    },
+    {
+      "id": "44963",
+      "title": "When does inequality grow? A seasonal analysis of racial/ethnic disparities in learning in kindergarten through eighth grade",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Dennis Condron",
+        "Douglas Downey"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, Dennis Condron, Douglas Downey",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/workingpaper-when-does-inequality-grow-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/when-does-inequality-grow-a-seasonal-analysis-of-racial-ethnic-disparities-in-learning-in-kindergarten-through-eighth-grade/"
+    },
+    {
+      "id": "44961",
+      "title": "Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/workingpaper-nwea-research-collaborative-metadata-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness-paper/"
+    },
+    {
+      "id": "44960",
+      "title": "Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "Early learning",
+        "Growth modeling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Angela Johnson, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/"
+    },
+    {
+      "id": "44957",
+      "title": "English Language Learners, self-efficacy, and the achievement gap: understanding the relationship between academic and social-emotional growth",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Working paper",
+      "types": [
+        "Working paper"
+      ],
+      "cls": [
+        "Working paper / preprint"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/workingpaper-ELL_self-efficacy_and_the_achievement_gap_2020.pdf",
+      "url": "https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap-understanding-the-relationship-between-academic-and-social-emotional-growth/"
+    },
+    {
+      "id": "44954",
+      "title": "Absenteeism and achievement",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-absenteeism-and-achievement-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/absenteeism-and-achievement/"
+    },
+    {
+      "id": "44951",
+      "title": "School effectiveness, summer loss and federal accountability",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-school-effectiveness-summer-loss-and-federal-accountability-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/school-effectiveness-summer-loss-and-federal-accountability/"
+    },
+    {
+      "id": "44948",
+      "title": "English Language Learners, self-efficacy, and the achievement gap",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-collaborative-for-student-growth-english-language-learners-self-efficacy-and-the-achievement-gap-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/english-language-learners-self-efficacy-and-the-achievement-gap/"
+    },
+    {
+      "id": "44945",
+      "title": "Are achievement gap estimates biased by differential student test effort?",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "School & test engagement",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-are-achievement-gap-estimates-biased-by-differential-student-test-effort-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort/"
+    },
+    {
+      "id": "44942",
+      "title": "Identifying students who are off-track academically in ninth grade – the role of social-emotional learning trajectories",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Growth modeling",
+        "High-growth schools & practices",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-identifying-students-who-are-off-track-academically-in-ninth-grade-the-role-of-social-emotional-learning-trajectories-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/identifying-students-who-are-off-track-academically-in-ninth-grade-the-role-of-social-emotional-learning-trajectories/"
+    },
+    {
+      "id": "44939",
+      "title": "Measuring social-emotional learning – the tradeoff between measuring narrower skills versus broad competencies",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-measuring-social-emotional-learning-the-tradeoff-between-measuring-narrower-skills-versus-broad-competencies-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/measuring-social-emotional-learning-the-tradeoff-between-measuring-narrower-skills-versus-broad-competencies/"
+    },
+    {
+      "id": "44937",
+      "title": "The impact of technology-enhanced items on test-taker disengagement",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "James Soland",
+        "Laurence Dupray"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise, James Soland, Laurence Dupray",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/10/researchbrief-the-impact-of-technology-enhanced-items-on-test-taker-disengagement-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/the-impact-of-technology-enhanced-items-on-test-taker-disengagement/"
+    },
+    {
+      "id": "44934",
+      "title": "The impact of proctor notification when students disengage",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-the-impact-of-proctor-notification-when-students-disengage-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/the-impact-of-proctor-notification-when-students-disengage/"
+    },
+    {
+      "id": "44931",
+      "title": "Are social-emotional learning competencies stable over time? Implications for practice, policy, and evaluation",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Social-emotional learning",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld",
+        "Emily Wolk",
+        "Sharon Bi"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-are-social-emotional-learning-competencies-stable-over-time-implications-for-practice-policy-and-evaluation-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/are-social-emotional-learning-competencies-stable-over-time-implications-for-practice-policy-and-evaluation/"
+    },
+    {
+      "id": "44928",
+      "title": "Validating the SEDA measures of district educational opportunities via a common assessment",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "Growth modeling",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Thurston Domina",
+        "Paul Hanselman"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, Thurston Domina, Paul Hanselman",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment-brief/"
+    },
+    {
+      "id": "44925",
+      "title": "Reconciling long-term education policy goals with short-term school accountability models",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Seasonal learning patterns & summer loss",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-csg-research-brief-reconciling-long-term-education-policy-goals-with-short-term-school-accountability-models-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/reconciling-long-term-education-policy-goals-with-short-term-school-accountability-models/"
+    },
+    {
+      "id": "44922",
+      "title": "Trends in children’s academic skills at school entry: 2010 –  2017",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Early learning",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland",
+        "Christine Pitts",
+        "Margaret Burchinal"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland, Christine Pitts, Margaret Burchinal",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-trends-in-childrens-academic-skills-at-school-entry-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/trends-in-childrens-academic-skills-at-school-entry-2010-2017/"
+    },
+    {
+      "id": "44919",
+      "title": "What happens when test takers disengage? Understanding and addressing rapid guessing",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-what-happens-when-test-takers-disengage-understanding-and-addressing-rapid-guessing-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/what-happens-when-test-takers-disengage-understanding-and-addressing-rapid-guessing/"
+    },
+    {
+      "id": "44917",
+      "title": "Measuring the impact of test disengagement on estimates of educational effectiveness",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2022/10/researchbrief-collaborative-for-student-growth-measuring-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/measuring-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/"
+    },
+    {
+      "id": "44914",
+      "title": "When does inequality grow? School, summer, and achievement gaps",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Dennis Condron",
+        "Douglas Downey"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, Dennis Condron, Douglas Downey",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-when-does-inequality-grow-school-years-summers-and-achievement-gaps-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/when-does-inequality-grow-school-summer-and-achievement-gaps/"
+    },
+    {
+      "id": "44911",
+      "title": "Can item response times provide insight into students’ motivation and self-efﬁcacy in math",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Research brief",
+      "types": [
+        "Research brief"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Math & STEM",
+        "School & test engagement",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/researchbrief-can-item-response-times-provide-insight-into-students-motivation-and-self-ef%EF%AC%81cacy-in-math-2019.pdf",
+      "url": "https://www.nwea.org/research/publication/can-item-response-times-provide-insight-into-students-motivation-and-self-ef%ef%ac%81cacy-in-math/"
+    },
+    {
+      "id": "44910",
+      "title": "The utility of adaptive testing in addressing the problem of unmotivated examinees",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-utility-of-adaptive-testing-in-addressing-the-problem-of-unmotivated-examinees/"
+    },
+    {
+      "id": "44909",
+      "title": "Response time as an indicator of test taker speed: assumptions meet reality",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/response-time-as-an-indicator-of-test-taker-speed-assumptions-meet-reality/"
+    },
+    {
+      "id": "44908",
+      "title": "Effort analysis: Individual score validation of achievement test data",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/effort-analysis-individual-score-validation-of-achievement-test-data/"
+    },
+    {
+      "id": "44907",
+      "title": "Modeling student test-taking motivation in the context of an adaptive achievement test",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/modeling-student-test-taking-motivation-in-the-context-of-an-adaptive-achievement-test/"
+    },
+    {
+      "id": "44906",
+      "title": "A general approach to measuring test-taking effort on computer-based tests",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Lingyun Gao"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise, Lingyun Gao",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-general-approach-to-measuring-test-taking-effort-on-computer-based-tests/"
+    },
+    {
+      "id": "44905",
+      "title": "Students improve even amid evaluation controversy",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/students-improve-even-amid-evaluation-controversy/"
+    },
+    {
+      "id": "44904",
+      "title": "Propensity score stratification using multilevel models to examine charter school achievement effects",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Tarasawa",
+        "Yun Xiang"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Beth Tarasawa, Yun Xiang",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/propensity-score-stratification-using-multilevel-models-to-examine-charter-school-achievement-effects/"
+    },
+    {
+      "id": "44903",
+      "title": "An investigation of examinee test-taking effort on a large-scale assessment",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "J. Carl Setzer",
+        "Jill R. van den Heuvel",
+        "Guangming Ling"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise, J. Carl Setzer, Jill R. van den Heuvel, Guangming Ling",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/an-investigation-of-examinee-test-taking-effort-on-a-large-scale-assessment/"
+    },
+    {
+      "id": "44902",
+      "title": "The effective use of student and school descriptive indicators of learning progress: From the conditional growth index to the learning productivity measurement system",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Measurement & scaling",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-effective-use-of-student-and-school-descriptive-indicators-of-learning-progress-from-the-conditional-growth-index-to-the-learning-productivity-measurement-system/"
+    },
+    {
+      "id": "44901",
+      "title": "Using test scores for teacher evaluation: Why caution is necessary",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/using-test-scores-for-teacher-evaluation-why-caution-is-necessary/"
+    },
+    {
+      "id": "44899",
+      "title": "Relationships between poverty and school performance",
+      "date": "2020-03-27",
+      "year": "2020",
+      "type": "Presentation",
+      "types": [
+        "Presentation"
+      ],
+      "cls": [
+        "Conference presentation"
+      ],
+      "themes": [
+        "Equity",
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Andrew Hegedus"
+      ],
+      "nwea": [
+        "Andrew Hegedus"
+      ],
+      "byline": "Andrew Hegedus",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/relationships-between-poverty-and-school-performance/"
+    },
+    {
+      "id": "44893",
+      "title": "Developing more meaningful definitions of college readiness",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "College & career readiness",
+        "Empowering educators"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "John Cronin",
+        "Michael Dahlin"
+      ],
+      "nwea": [],
+      "byline": "John Cronin, Michael Dahlin",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/developing-more-meaningful-definitions-of-college-readiness/"
+    },
+    {
+      "id": "44892",
+      "title": "Increasing parental involvement of English language learner families: What the research says",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "English Language Learners"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Tarasawa",
+        "Jacqueline Waggoner"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Beth Tarasawa, Jacqueline Waggoner",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/increasing-parental-involvement-of-english-language-learner-families-what-the-research-says/"
+    },
+    {
+      "id": "44891",
+      "title": "Is Moneyball the next big thing in education?",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/is-moneyball-the-next-big-thing-in-education/"
+    },
+    {
+      "id": "44889",
+      "title": "The phantom collapse of student achievement in New York",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "John Cronin",
+        "Nate Jensen"
+      ],
+      "nwea": [],
+      "byline": "John Cronin, Nate Jensen",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-phantom-collapse-of-student-achievement-in-new-york/"
+    },
+    {
+      "id": "44885",
+      "title": "Developing practitioner-scholars though university-school district research partnerships: Multiple perspectives on collaborative research",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Tarasawa",
+        "Nicole Ralson",
+        "Jacqueline Waggoner"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Beth Tarasawa, Nicole Ralson, Jacqueline Waggoner",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/developing-practitioner-scholars-though-university-school-district-research-partnerships-multiple-perspectives-on-collaborative-research/"
+    },
+    {
+      "id": "44884",
+      "title": "Is teacher value added a matter of scale? The practical consequences of treating an ordinal scale as interval for estimation of teacher effects",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/is-teacher-value-added-a-matter-of-scale-the-practical-consequences-of-treating-an-ordinal-scale-as-interval-for-estimation-of-teacher-effects/"
+    },
+    {
+      "id": "44881",
+      "title": "The potential of adaptive assessment",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Edward Freeman"
+      ],
+      "nwea": [],
+      "byline": "Edward Freeman",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-potential-of-adaptive-assessment/"
+    },
+    {
+      "id": "44880",
+      "title": "Evaluating content alignment in computerized adaptive testing",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Norman Webb"
+      ],
+      "nwea": [],
+      "byline": "Norman Webb",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/evaluating-content-alignment-in-computerized-adaptive-testing/"
+    },
+    {
+      "id": "44878",
+      "title": "Concurrent validity of the independent reading level assessment framework and a state assessment",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Measurement & scaling",
+        "Reading & language arts"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Tarasawa",
+        "Nicole Ralston",
+        "Jacqueline Waggoner",
+        "Amy Jackson"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Beth Tarasawa, Nicole Ralston, Jacqueline Waggoner, Amy Jackson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/concurrent-validity-of-the-independent-reading-level-assessment-framework-and-a-state-assessment/"
+    },
+    {
+      "id": "44876",
+      "title": "Combining academic, noncognitive, and college knowledge measures to identify students not on track for college: A data-driven approach",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "College & career readiness",
+        "Empowering educators"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "http://www.rpajournal.com/dev/wp-content/uploads/2017/07/A1.pdf",
+      "url": "https://www.nwea.org/research/publication/combining-academic-noncognitive-and-college-knowledge-measures-to-identify-students-not-on-track-for-college-a-data-driven-approach/"
+    },
+    {
+      "id": "44873",
+      "title": "Learning styles: Considerations for technology enhanced item design: Learning styles",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "Innovations in reporting & assessment"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Deborah Adkins",
+        "Meg Guerreiro"
+      ],
+      "nwea": [],
+      "byline": "Deborah Adkins, Meg Guerreiro",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/"
+    },
+    {
+      "id": "44872",
+      "title": "Rapid‐guessing behavior: Its identification, interpretation, and implications",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/rapid%e2%80%90guessing-behavior-its-identification-interpretation-and-implications/"
+    },
+    {
+      "id": "44871",
+      "title": "The emerging science of test-taking disengagement",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-emerging-science-of-test-taking-disengagement/"
+    },
+    {
+      "id": "44868",
+      "title": "Making teacher goal setting more powerful",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Andrew Hegedus"
+      ],
+      "nwea": [
+        "Andrew Hegedus"
+      ],
+      "byline": "Andrew Hegedus",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/making-teacher-goal-setting-more-powerful/"
+    },
+    {
+      "id": "44867",
+      "title": "Moving from data to making a difference",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "High school",
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Andrew Hegedus"
+      ],
+      "nwea": [
+        "Andrew Hegedus"
+      ],
+      "byline": "Andrew Hegedus",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/moving-from-data-to-making-a-difference/"
+    },
+    {
+      "id": "44866",
+      "title": "An information-based approach to identifying rapid-guessing thresholds",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/an-information-based-approach-to-identifying-rapid-guessing-thresholds/"
+    },
+    {
+      "id": "44864",
+      "title": "The (non)impact of differential test taker engagement on aggregated scores",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "James Soland",
+        "Yuanchao Bo"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise, James Soland, Yuanchao Bo",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-nonimpact-of-differential-test-taker-engagement-on-aggregated-scores/"
+    },
+    {
+      "id": "44863",
+      "title": "Identifying disengaged survey responses: New evidence using response time metadata",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Steven Wise",
+        "Lingyun Gao"
+      ],
+      "nwea": [],
+      "byline": "James Soland, Steven Wise, Lingyun Gao",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/identifying-disengaged-survey-responses-new-evidence-using-response-time-metadata/"
+    },
+    {
+      "id": "44860",
+      "title": "The effects of effort monitoring with proctor notification on test-taking engagement, test performance, and validity",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise",
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Steven Wise, Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-effects-of-effort-monitoring-with-proctor-notification-on-test-taking-engagement-test-performance-and-validity/"
+    },
+    {
+      "id": "44859",
+      "title": "A path to completion? The impacts of statewide articulation agreements on enrollment and attainment",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "College & career readiness"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Greg King"
+      ],
+      "nwea": [],
+      "byline": "Greg King",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-path-to-completion-the-impacts-of-statewide-articulation-agreements-on-enrollment-and-attainment/"
+    },
+    {
+      "id": "44858",
+      "title": "Seven successful strategies for literate assessment",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Beth Tarasawa",
+        "Amelia Gotwals",
+        "Cara Jackson"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Beth Tarasawa, Amelia Wenk Gotwals, Cara Jackson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/seven-successful-strategies-for-literate-assessment/"
+    },
+    {
+      "id": "44855",
+      "title": "Finding root causes effectively: A powerful way to improve schools",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Andrew Hegedus"
+      ],
+      "nwea": [
+        "Andrew Hegedus"
+      ],
+      "byline": "Andrew Hegedus",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/finding-root-causes-effectively-a-powerful-way-to-improve-schools/"
+    },
+    {
+      "id": "44857",
+      "title": "Controlling construct-irrelevant factors through computer-based testing: Disengagement, anxiety, & cheating",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "Measurement & scaling",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Steven Wise"
+      ],
+      "nwea": [],
+      "byline": "Steven Wise",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/controlling-construct-irrelevant-factors-through-computer-based-testing-disengagement-anxiety-cheating/"
+    },
+    {
+      "id": "44854",
+      "title": "Are test and academic disengagement related? Implications for measurement and practice",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "High school",
+        "School & test engagement",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Emily Wolk",
+        "Sharon Bi",
+        "Tran Keys"
+      ],
+      "nwea": [],
+      "byline": "Emily Wolk, Sharon Bi, Tran Keys",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/are-test-and-academic-disengagement-related-implications-for-measurement-and-practice/"
+    },
+    {
+      "id": "44853",
+      "title": "Predicting time to reclassification for English learners: A joint modeling approach",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Tyler H. Matta",
+        "James Soland"
+      ],
+      "nwea": [
+        "Tyler H. Matta"
+      ],
+      "byline": "Tyler Matta, James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/predicting-time-to-reclassification-for-english-learners-a-joint-modeling-approach/"
+    },
+    {
+      "id": "44852",
+      "title": "The achievement gap or the engagement gap? Investigating the sensitivity of gaps estimates to test motivation",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "School & test engagement",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-achievement-gap-or-the-engagement-gap-investigating-the-sensitivity-of-gaps-estimates-to-test-motivation/"
+    },
+    {
+      "id": "44851",
+      "title": "Are achievement gap estimates biased by differential student test effort? Putting an important policy metric to the test.",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "School & test engagement"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/are-achievement-gap-estimates-biased-by-differential-student-test-effort-putting-an-important-policy-metric-to-the-test/"
+    },
+    {
+      "id": "44850",
+      "title": "The influence of rapidly guessed item responses on teacher value-added estimates: Implications for policy and practice",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "School & test engagement",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Andrew Rice"
+      ],
+      "nwea": [],
+      "byline": "Andrew Rice",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-influence-of-rapidly-guessed-item-responses-on-teacher-value-added-estimates-implications-for-policy-and-practice/"
+    },
+    {
+      "id": "44849",
+      "title": "The development of racial/ethnic and socioeconomic achievement gaps during the school years",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Growth modeling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Elizabeth Gershoff",
+        "Katherine Paschall"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, Elizabeth Gershoff, Katherine Paschall",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-development-of-racial-ethnic-and-socioeconomic-achievement-gaps-during-the-school-years/"
+    },
+    {
+      "id": "44844",
+      "title": "Evaluating the relationships between poverty and school performance",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Andrew Hegedus"
+      ],
+      "nwea": [
+        "Andrew Hegedus"
+      ],
+      "byline": "Andrew Hegedus",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/2020/03/NWEA_Hegedus_evaluating-the-relationships-between-poverty-and-school-performance_whitepaper.pdf",
+      "url": "https://www.nwea.org/research/publication/evaluating-the-relationships-between-poverty-and-school-performance-whitepaper/"
+    },
+    {
+      "id": "44848",
+      "title": "Summer credit recovery impact on newcomer English Learners",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "College & career readiness",
+        "English Language Learners"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/summer-credit-recovery-impact-on-newcomer-english-learners/"
+    },
+    {
+      "id": "44847",
+      "title": "Modeling academic achievement and self-efficacy as joint developmental processes: Evidence for education, counseling, and policy",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Growth modeling",
+        "Social-emotional learning",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/modeling-academic-achievement-and-self-efficacy-as-joint-developmental-processes-evidence-for-education-counseling-and-policy/"
+    },
+    {
+      "id": "44843",
+      "title": "The impact of English Learner reclassification on high school reading and academic progress",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "English Language Learners",
+        "High-growth schools & practices",
+        "Reading & language arts"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-impact-of-english-learner-reclassification-on-high-school-reading-and-academic-progress/"
+    },
+    {
+      "id": "44842",
+      "title": "Do high flyers maintain their altitude? Performance trends of top students",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "Equity",
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Yun Xiang",
+        "Michael Dahlin",
+        "John Cronin",
+        "Robert Theaker",
+        "Sarah Durant"
+      ],
+      "nwea": [],
+      "byline": "Yun Xiang, Michael Dahlin, John Cronin, Robert Theaker, Sarah Durant",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/do-high-flyers-maintain-their-altitude-performance-trends-of-top-students/"
+    },
+    {
+      "id": "44841",
+      "title": "Advancing educational quality in Rwanda: Improving teachers’ literacy pedagogy and print environments",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Early learning",
+        "Empowering educators",
+        "Reading & language arts"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson",
+        "Catherine Galloway",
+        "Elliot Friedlander",
+        "Claude Goldenberg"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson, Catherine Galloway, Elliot Friedlander, Claude Goldenberg",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/advancing-educational-quality-in-rwanda-improving-teachers-literacy-pedagogy-and-print-environments/"
+    },
+    {
+      "id": "44840",
+      "title": "A level playing field: College readiness standards",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "White paper",
+      "types": [
+        "White paper"
+      ],
+      "cls": [
+        "Report / brief"
+      ],
+      "themes": [
+        "College & career readiness",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Michael Dahlin",
+        "Beth Tarasawa"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Michael Dahlin, Beth Tarasawa",
+      "editors": false,
+      "pdf": "https://www.nwea.org/uploads/A-Level-Playing-Field.pdf",
+      "url": "https://www.nwea.org/research/publication/a-level-playing-field-college-readiness-standards-whitepaper/"
+    },
+    {
+      "id": "44839",
+      "title": "The prevalence of parent-teacher interaction in developing countries and its effect on student outcomes",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Empowering educators",
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Guirong Li",
+        "Millie Lin",
+        "Chengfang Liu",
+        "Angela Johnson",
+        "Yanyan Li",
+        "Prashant Loyalka"
+      ],
+      "nwea": [],
+      "byline": "Guirong Li, Millie Lin, Chengfang Liu, Angela Johnson, Yanyan Li, Prashant Loyalka",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/the-prevalence-of-parent-teacher-interaction-in-developing-countries-and-its-effect-on-student-outcomes/"
+    },
+    {
+      "id": "44838",
+      "title": "A posterior predictive model checking method assuming posterior normality for item response theory",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Growth modeling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-posterior-predictive-model-checking-method-assuming-posterior-normality-for-item-response-theory/"
+    },
+    {
+      "id": "44835",
+      "title": "Examining the state-trait composition of social-emotional learning constructs: Implications for practice, policy, and evaluation",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "Social-emotional learning",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Megan Kuhfeld",
+        "Emily Wolk",
+        "Sharon Bi"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "James Soland, Megan Kuhfeld, Emily Wolk, Sharon Bi",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/examining-the-state-trait-composition-of-social-emotional-learning-constructs-implications-for-practice-policy-and-evaluation/"
+    },
+    {
+      "id": "44832",
+      "title": "Using assessment metadata to quantify the impact of test disengagement on estimates of educational effectiveness",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling",
+        "School & test engagement",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "James Soland"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/using-assessment-metadata-to-quantify-the-impact-of-test-disengagement-on-estimates-of-educational-effectiveness/"
+    },
+    {
+      "id": "44831",
+      "title": "The changing landscape of assessment and accommodation policies",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Accessibility",
+        "Equity",
+        "Student growth & accountability policies"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Elizabeth Barker"
+      ],
+      "nwea": [],
+      "byline": "Elizabeth Barker",
+      "editors": false,
+      "pdf": "https://ace-ed.org/wp-content/uploads/2019/08/August-2019-optimized.pdf",
+      "url": "https://www.nwea.org/research/publication/the-changing-landscape-of-assessment-and-accommodation-policies/"
+    },
+    {
+      "id": "44830",
+      "title": "Validating the SEDA measures of district educational opportunities via a common assessment",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Growth modeling",
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld",
+        "Thurston Domina",
+        "Paul Hanselman"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld, Thurston Domina, Paul Hanselman",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/validating-the-seda-measures-of-district-educational-opportunities-via-a-common-assessment/"
+    },
+    {
+      "id": "44828",
+      "title": "A matter of time: variations in high school course-taking by years-as-EL subgroup",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "English Language Learners",
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angela Johnson"
+      ],
+      "nwea": [],
+      "byline": "Angela Johnson",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/a-matter-of-time-variations-in-high-school-course-taking-by-years-as-el-subgroup/"
+    },
+    {
+      "id": "44827",
+      "title": "Rethinking summer slide: The more you gain, the more you lose",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity",
+        "Seasonal learning patterns & summer loss"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Megan Kuhfeld"
+      ],
+      "nwea": [
+        "Megan Kuhfeld"
+      ],
+      "byline": "Megan Kuhfeld",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/rethinking-summer-slide-the-more-you-gain-the-more-you-lose/"
+    },
+    {
+      "id": "44826",
+      "title": "Three measures of test adaptation based on optimal test information",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Measurement & scaling"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [],
+      "nwea": [],
+      "byline": "",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/three-measures-of-test-adaptation-based-on-optimal-test-information/"
+    },
+    {
+      "id": "44825",
+      "title": "Identifying naturally occurring direct assessments of social-emotional competencies: The promise and limitations of survey and assessment disengagement metadata",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Innovations in reporting & assessment",
+        "School & test engagement",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland",
+        "Gema Zamarro",
+        "Albert Cheng",
+        "Collin Hitt"
+      ],
+      "nwea": [],
+      "byline": "James Soland, Gema Zamarro, Albert Cheng, Collin Hitt",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/identifying-naturally-occurring-direct-assessments-of-social-emotional-competencies-the-promise-and-limitations-of-survey-and-assessment-disengagement-metadata/"
+    },
+    {
+      "id": "44824",
+      "title": "Can item response times provide insight into students’ motivation and self-efficacy in math? An initial application of test metadata to understand students’ social emotional needs",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Math & STEM",
+        "School & test engagement",
+        "Social-emotional learning"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "James Soland"
+      ],
+      "nwea": [],
+      "byline": "James Soland",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/can-item-response-times-provide-insight-into-students-motivation-and-self%e2%80%90efficacy-in-math-an-initial-application-of-test-metadata-to-understand-students-social-emotional-needs/"
+    },
+    {
+      "id": "44817",
+      "title": "Evaluating the relationships between poverty and school performance",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Data visualization",
+      "types": [
+        "Data visualization"
+      ],
+      "cls": [
+        "Blog / web"
+      ],
+      "themes": [
+        "Equity",
+        "High-growth schools & practices"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Andrew Hegedus"
+      ],
+      "nwea": [
+        "Andrew Hegedus"
+      ],
+      "byline": "Andrew Hegedus",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/evaluating-the-relationships-between-poverty-and-school-performance/"
+    },
+    {
+      "id": "44820",
+      "title": "Positionality in teaching: Implications for advancing social justice",
+      "date": "2020-03-26",
+      "year": "2020",
+      "type": "Journal article",
+      "types": [
+        "Journal article"
+      ],
+      "cls": [
+        "Journal article"
+      ],
+      "themes": [
+        "Equity"
+      ],
+      "product": "",
+      "center": "NWEA Research",
+      "authors": [
+        "Angelica Paz Ortiz",
+        "Beth Tarasawa",
+        "Jack Straton",
+        "Noelle Al-Mustaifry",
+        "Anmarie Trimble"
+      ],
+      "nwea": [
+        "Beth Tarasawa"
+      ],
+      "byline": "Angelica Paz Ortiz, Beth Tarasawa, Jack Straton, Noelle Al-Mustaifry, Anmarie Trimble",
+      "editors": false,
+      "pdf": "",
+      "url": "https://www.nwea.org/research/publication/positionality-in-teaching-implications-for-advancing-social-justice/"
+    }
+  ]
+};

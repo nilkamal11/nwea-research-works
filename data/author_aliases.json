@@ -1,0 +1,67 @@
+{
+  "policy": "Raw source bylines are preserved. Legacy display aliases are documented but not independently verified. No automated identity matching or fuzzy merge is applied.",
+  "legacy_aliases": [
+    {
+      "source_name": "Jim Soland",
+      "display_name": "James Soland",
+      "entry_ids": [
+        "89883"
+      ],
+      "status": "legacy_unverified"
+    },
+    {
+      "source_name": "Douglas Downery",
+      "display_name": "Douglas Downey",
+      "entry_ids": [
+        "45231"
+      ],
+      "status": "legacy_unverified"
+    },
+    {
+      "source_name": "Doug Downey",
+      "display_name": "Douglas Downey",
+      "entry_ids": [
+        "45117"
+      ],
+      "status": "legacy_unverified"
+    },
+    {
+      "source_name": "Xueming Li",
+      "display_name": "Xueming (Sylvia) Li",
+      "entry_ids": [
+        "45007"
+      ],
+      "status": "legacy_unverified"
+    },
+    {
+      "source_name": "Amelia Wenk Gotwals",
+      "display_name": "Amelia Gotwals",
+      "entry_ids": [
+        "44858"
+      ],
+      "status": "legacy_unverified"
+    },
+    {
+      "source_name": "Tyler Matta",
+      "display_name": "Tyler H. Matta",
+      "entry_ids": [
+        "44853"
+      ],
+      "status": "legacy_unverified"
+    }
+  ],
+  "corrections": [
+    {
+      "legacy_name": "Shannon Bi",
+      "display_name": "Sharon Bi",
+      "entry_ids": [
+        "44931",
+        "44854",
+        "44835"
+      ],
+      "reason": "Restore the exact name in each saved source byline. The prior Sharon-to-Shannon substitution had no supporting evidence in the saved project.",
+      "status": "restored_to_saved_byline"
+    }
+  ],
+  "credential_handling": "Credential suffixes vary in the inherited contributor lists. The build does not standardize these suffixes; the unchanged source byline retains the saved text."
+}

@@ -4,6 +4,22 @@ A research-library explorer built around a saved **September 4, 2026** snapshot 
 
 **[Open the dashboard](https://nilkamal11.github.io/nwea-research-works/)** · **[Complete build guide](docs/BUILD_GUIDE.md)** · **[Project walkthrough](docs/INTERVIEW_WALKTHROUGH.md)**
 
+## Python + D3 version
+
+**[Open the Python + D3 demo](https://nilkamal11.github.io/nwea-research-works/python-d3/)** · **[Python + D3 build guide](docs/PYTHON_D3.md)**
+
+The companion version uses a Flask API for Python filtering, summaries, and contributor relationships, with D3 7.9.0 for SVG charts and the interactive force network. Its source lives in `python_d3/` (Python) and `python-d3/` (browser interface).
+
+GitHub Pages serves a static export produced by Python. In that demo, browser filters select from Python-generated record memberships. Run the Flask application locally to have Python process every filter request:
+
+```console
+python -m venv .venv
+.venv\Scripts\python.exe -m pip install -r python_d3/requirements.txt
+.venv\Scripts\python.exe -m python_d3.app
+```
+
+Open `http://127.0.0.1:8788/python-d3/`. On macOS or Linux, use `.venv/bin/python` instead. The [variant guide](docs/PYTHON_D3.md) explains both execution modes and the Python-to-D3 code path.
+
 ## What the dashboard does
 
 - **Works:** search and filter records by contributor, posted year, theme, product, type, and broader publication class; follow links to the source pages and available PDFs.
@@ -25,11 +41,11 @@ npm start
 
 Open `http://127.0.0.1:8787/`. No package installation is necessary. Windows users can also run `serve.cmd` if Node.js is installed.
 
-## Tools
+## Original dashboard tools
 
 The interface uses HTML, CSS, plain JavaScript, and Canvas 2D. The network has a custom force layout. Python's standard library handles the offline data build, validation, CSV export, and optional forward collection. Node.js supplies a local static server and JavaScript tests. GitHub Pages hosts the static files.
 
-There are no third-party runtime dependencies. The browser does not run Python or query a database. D3, pandas, and BeautifulSoup are not part of this implementation.
+The original dashboard has no third-party runtime dependencies. Its browser does not run Python or query a database. The companion Python + D3 version adds Flask and a locally bundled D3 library; see [third-party notices](THIRD_PARTY.md).
 
 ## Rebuild and validate
 

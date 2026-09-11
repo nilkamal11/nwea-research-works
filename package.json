@@ -7,7 +7,9 @@
     "start": "node serve.js",
     "test": "node --test tests/*.test.js",
     "build:data": "python scripts/build_data.py",
-    "validate:data": "python scripts/validate_data.py"
+    "validate:data": "python scripts/validate_data.py",
+    "build:python-d3": "python -m python_d3.export",
+    "start:python-d3": "python -m python_d3.app"
   },
   "engines": { "node": ">=20" }
 }

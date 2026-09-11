@@ -32,7 +32,7 @@ function createServer(root = __dirname) {
       res.writeHead(403).end('Forbidden');
       return;
     }
-    if (pathname === '/') pathname = '/index.html';
+    if (pathname.endsWith('/')) pathname += 'index.html';
     const file = path.resolve(root, '.' + pathname);
     const relative = path.relative(root, file);
     if (relative.startsWith('..') || path.isAbsolute(relative)) {

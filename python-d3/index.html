@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en" data-mode="static">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Explore a dated NWEA research snapshot with Python data processing and interactive D3 visualizations.">
+  <title>NWEA Research Works · Python + D3</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./vendor/d3.v7.min.js"></script>
+  <script defer src="./static-model.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to research explorer</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <div>
+        <p class="eyebrow">RESEARCH CONNECTIONS / NWEA</p>
+        <h1>NWEA Research Works <span class="technology">Python + D3</span></h1>
+        <p class="subtitle">Follow the people, themes, and records behind the research.</p>
+      </div>
+      <nav class="header-links" aria-label="Project resources">
+        <a href="https://nilkamal11.github.io/nwea-research-works/">Original dashboard ↗</a>
+        <a href="https://github.com/nilkamal11/nwea-research-works/blob/main/docs/PYTHON_D3.md" target="_blank" rel="noopener noreferrer">Build guide ↗</a>
+        <a href="https://github.com/nilkamal11/nwea-research-works/tree/main/python-d3" target="_blank" rel="noopener noreferrer">Source code ↗</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="page-shell">
+    <div class="snapshot-line"><span id="mode-badge" class="mode-badge">Loading snapshot</span><span id="snapshot-note"></span></div>
+    <div id="error-panel" class="error-panel" role="alert" hidden><p id="error-text"></p><button type="button" id="retry">Try again</button></div>
+    <p id="load-status" class="load-status" role="status" aria-live="polite">Loading research records…</p>
+    <div id="explorer" hidden>
+      <section class="summary-grid" aria-label="Current selection summary">
+        <article><span id="stat-records">—</span><h2>Research records</h2></article>
+        <article><span id="stat-contributors">—</span><h2>Named contributors</h2></article>
+        <article><span id="stat-roster">—</span><h2>Saved-roster matches</h2></article>
+        <article><span id="stat-bylines">—</span><h2>Records with a byline</h2></article>
+        <article><span id="stat-pdfs">—</span><h2>Records with a PDF</h2></article>
+      </section>
+
+      <section class="filter-panel" aria-labelledby="filters-heading">
+        <div class="section-heading"><h2 id="filters-heading">Explore the collection</h2><button type="button" id="clear-filters" class="text-button">Clear filters</button></div>
+        <form id="filters" autocomplete="off">
+          <div class="filter-grid">
+            <label class="search-field">Search records<input type="search" id="q" name="q" placeholder="A question, topic, or contributor"></label>
+            <label>Publication class<select id="cls" name="cls"><option value="">All classes</option></select></label>
+            <label>Research theme<select id="theme" name="theme"><option value="">All themes</option></select></label>
+            <label>Contributor<select id="author" name="author"><option value="">All contributors</option></select></label>
+            <fieldset class="year-fields"><legend>Posted year</legend><label class="sr-only" for="y0">First posted year</label><select id="y0" name="y0"><option value="">From</option></select><span aria-hidden="true">–</span><label class="sr-only" for="y1">Last posted year</label><select id="y1" name="y1"><option value="">To</option></select></fieldset>
+          </div>
+          <details class="extra-filters"><summary>More filters</summary><div class="extra-filter-fields"><label>Source publication type<select id="type" name="type"><option value="">All types</option></select></label><label class="check-label"><input type="checkbox" id="pdf" name="pdf">Has a PDF link</label></div></details>
+        </form>
+        <p id="scope-note" class="scope-note"></p>
+      </section>
+
+      <nav class="view-tabs" aria-label="Research views">
+        <a href="#network" data-tab="network" aria-current="page">Contributor network</a>
+        <a href="#works" data-tab="works">Research records</a>
+        <a href="#counts" data-tab="counts">Counts & trends</a>
+        <a href="#themes" data-tab="themes">Theme matrix</a>
+      </nav>
+
+      <section id="panel-network" class="view-panel" aria-labelledby="network-heading">
+        <div class="section-heading"><div><p class="eyebrow">SHARED RECORDS</p><h2 id="network-heading">Research is a connected effort.</h2></div><span id="graph-summary" class="muted"></span></div>
+        <div class="network-controls">
+          <label class="check-label"><input type="checkbox" id="roster_only" checked>Saved roster only</label>
+          <label class="threshold-field">Minimum shared records<input id="min_shared" type="number" value="1" min="1" max="317" step="1"></label>
+          <div class="graph-actions"><button type="button" id="reset-view">Reset view</button><button type="button" id="reheat">Rearrange</button><button type="button" id="pause-motion">Pause motion</button></div>
+        </div>
+        <div class="network-layout">
+          <div class="network-stage">
+            <svg id="network" viewBox="0 0 1000 570" role="group" aria-label="Interactive contributor network. Use contributor and pair tables below for the same relationships."><title>Contributors and their shared research records</title></svg>
+            <p id="network-empty" class="empty-network" hidden>No contributors match these filters.</p>
+            <div id="graph-tooltip" class="graph-tooltip" role="status" hidden></div>
+            <span class="canvas-hint">Drag to arrange · Scroll to zoom · Select a name to read their records</span>
+          </div>
+          <aside class="network-explainer">
+            <h3>Reading the connections</h3>
+            <p><span class="legend-dot roster"></span>Matches the saved researcher roster</p>
+            <p><span class="legend-dot other"></span>Other credited contributor</p>
+            <div class="legend-rule"></div>
+            <p><strong>A circle is a contributor.</strong> Larger circles mean more records in this selection.</p>
+            <p><strong>A line is a shared credit.</strong> Thicker lines mean more shared records.</p>
+            <p class="small">Contributors can include authors, editors, or an organizational byline. Roster membership is a dated name match, not proof of affiliation when a record was published.</p>
+            <p id="isolate-note" class="small"></p>
+          </aside>
+        </div>
+        <div class="relationship-tables">
+          <section class="card"><div class="section-heading"><h3>Contributors in this view</h3><span id="contributor-table-count" class="muted"></span></div><p class="small">Choose a name to open its records within the current filters.</p><div class="table-scroll table-height"><table><thead><tr><th scope="col">Contributor</th><th scope="col">Records</th><th scope="col">Roster match</th></tr></thead><tbody id="contributors-body"></tbody></table></div></section>
+          <section class="card"><div class="section-heading"><h3>Shared-record pairs</h3><span id="pair-table-count" class="muted"></span></div><p class="small">Open a pair to inspect the actual records connecting them.</p><div class="table-scroll table-height"><table><thead><tr><th scope="col">Contributor pair</th><th scope="col">Shared records</th></tr></thead><tbody id="pairs-body"></tbody></table></div><button type="button" id="more-pairs" hidden>Show more pairs</button></section>
+        </div>
+        <section id="pair-detail" class="card pair-detail" hidden><div class="section-heading"><h3 id="pair-heading"></h3><button type="button" id="close-pair">Close pair records</button></div><div id="pair-records" class="record-list"></div></section>
+      </section>
+
+      <section id="panel-works" class="view-panel" aria-labelledby="works-heading" hidden><div class="section-heading"><div><p class="eyebrow">THE SOURCE MATERIAL</p><h2 id="works-heading">Research records</h2></div><span id="works-count" class="muted"></span></div><p class="section-intro">Explore the underlying entries. Dates describe website posting; separate entries may refer to the same study.</p><div id="works-list" class="record-list"></div><button type="button" id="more-works" class="more-button" hidden>Show more records</button></section>
+
+      <section id="panel-counts" class="view-panel" aria-labelledby="counts-heading" hidden><div class="section-heading"><div><p class="eyebrow">PATTERNS IN THE COLLECTION</p><h2 id="counts-heading">Counts & trends</h2></div></div><p class="section-intro">Select a bar to inspect its records. Every chart respects the filters above; multi-category entries can contribute to more than one bar.</p><div class="chart-grid"><section class="card"><h3>Publication classes</h3><div id="chart-classes" class="bar-chart"></div></section><section class="card"><h3>Research themes</h3><div id="chart-themes" class="bar-chart"></div></section><section class="card"><h3>Posted years</h3><div id="chart-years" class="bar-chart"></div></section><section class="card"><h3>Source publication types</h3><div id="chart-types" class="bar-chart"></div></section></div></section>
+
+      <section id="panel-themes" class="view-panel" aria-labelledby="themes-heading" hidden><div class="section-heading"><div><p class="eyebrow">TOPICS × PUBLICATION TYPES</p><h2 id="themes-heading">Theme matrix</h2></div></div><p class="section-intro">Select a cell to see its records. Row totals count each record once, even when it has multiple publication types.</p><div class="card"><div id="matrix" class="table-scroll"></div></div></section>
+    </div>
+
+    <footer class="page-footer"><p><strong>About this collection.</strong> An independent exploration of a saved NWEA research-library snapshot. Shared credits describe the selected records; network positions are layout choices, not measures of scientific similarity.</p><p id="runtime-note">Python prepares the data and relationship index; D3 renders the interactive views.</p></footer>
+  </main>
+</body>
+</html>

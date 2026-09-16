@@ -718,7 +718,7 @@
   select('#minw').addEventListener('change', buildNetwork);
   select('#restart').addEventListener('click', buildNetwork);
   select('#hsub').textContent = `${works.length} records | nwea.org | snapshot ${meta.pulled}`;
-  select('#foot').textContent = `Independent research-library explorer. ${works.length} source records collected ${meta.pulled}. Posted dates may differ from publication dates. Roster matching uses the saved ${rosterDate} roster and does not establish affiliation at publication.`;
+  select('#foot').textContent = `Independent research-library explorer. ${works.length} source records collected ${meta.pulled}. Posted dates may differ from publication dates. Roster matching uses the saved ${rosterDate} roster and does not establish affiliation at publication. Privacy: this site records the visitor’s IP address, page, browser details, and visit time for security and basic audience measurement; records are removed after 30 days.`;
   select('#networkLegend').textContent = `Node size increases with records credited; line width increases with shared records. Darker nodes match the saved ${rosterDate} roster; other nodes are not on that roster. Hover to highlight links, drag to reposition, or select a contributor to list records.`;
   select('#networkNote').textContent = 'Names are taken from source bylines, including editors and corporate bylines. Links mean shared indexed records; they do not establish collaboration strength. Layout positions are illustrative. Related briefs, articles, and appendices may be separate records.';
   select('#fNwea').parentElement.lastChild.textContent = ` Has a contributor on the ${rosterDate} roster`;
